@@ -90,6 +90,7 @@ Slack is a well-rounded app. The only drawback as a users is that since you like
 |Unclear what punctuations can/can't be added to channel name|1|include list of okay punctuatioons in error|
 
 10. help and documentation
+
 |Evaluation|Severity Rating|Solution|
 |----------|---------------|--------|
 |There aren't many messages about how to use the workspace from the owner/creator of the workspace so it is difficult to gauge how users should use the workspace and promoting comfortability in doing so|2|have a message / tutorial for new users and show messages in channels from a diversity of students|
@@ -170,6 +171,7 @@ This website includes all of the basic information that one may want to see. It 
 |Good: If you type in non-numerical values into the money field under donations, it will autocorrect to zero|
 
 10. help and documentation
+
 |Evaluation|Severity Rating|Solution|
 |----------|---------------|--------|
 |Good: Thorough explanations of their local tersm|
