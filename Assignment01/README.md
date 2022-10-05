@@ -1,5 +1,5 @@
 # ASSIGNMENT 01: HEURISTIC EVALUATION
-# Creating a Slack-Like Platform to Support Food Activism
+# Creating a Communal Platform to Support Food Activism
 Coco Nakano | DH 110 | Fall 2022
 ## Project Description
 I am both a student of the food studies minor and an intern at a nonprofit that works within the realm of food activism. A common request among these communities is the need for a centralized hub for information, events, opportunities, and collaborations to be shared. If you look up "Los Angeles Food Activism" on Google, you'll quickly find the scattered links that only lead to specific organizations and their internal events. Other alternatives that consolidate resources are often in private communities and don't allow the public to join. Therefore, I would like to focus my project on creating a resource-sharing platform to support food activism.
