@@ -24,59 +24,59 @@ Slack is a well-rounded app. The only drawback as a users is that since you like
 
 |Evaluation|Severity Rating|Solution|
 |----------|---------------|--------|
-|Good: it highlights the channel you're in|
-|Good: in text fields, it gives a light-grey message of where you're messaging (i.e. thread of in channel)|
-|Good: Hovering over the button yields very clear inverted colors so users are aware it's a buttom|
-|Good: Bolds the channels that include messages users haven't read|
-|Good: says reconnecting when waiting for wifi to return|
+|Good: it highlights the channel you're in|N/A|N/A|
+|Good: in text fields, it gives a light-grey message of where you're messaging (i.e. thread of in channel)|N/A|N/A|
+|Good: Hovering over the button yields very clear inverted colors so users are aware it's a buttom|N/A|N/A|
+|Good: Bolds the channels that include messages users haven't read|N/A|N/A|
+|Good: says reconnecting when waiting for wifi to return|N/A|N/A|
 
 2. match between system and real world
 
 |Evaluation|Severity Rating|Solution|
 |----------|---------------|--------|
-|Good: Can start threads / reply to specific messages to prevent confusion in channel|
-|Good: Can use emojis similar to texting|
+|Good: Can start threads / reply to specific messages to prevent confusion in channel|N/A|N/A|
+|Good: Can use emojis similar to texting|N/A|N/A|
 |Certain keyboard commands are different when in Slack (e.g. hyperlinking on most of platforms is command+K where as in Slack it's command+shift+U|1|I found the solutions to keyboard commands by googling, but it would help to make it the same as the users keyboard for all other purpuses|
 
 3. user control and freedom
 
 |Evaluation|Severity Rating|Solution|
 |----------|---------------|--------|
-|Good: clear X's on extra windows that users can close without closing the app|
-|Good: can open multiple windows within the desktop app so users can see multiple messages at once|
-|Good: Can privately message individuals in workspace about opportunities they send in public channels|
+|Good: clear X's on extra windows that users can close without closing the app|N/A|N/A|
+|Good: can open multiple windows within the desktop app so users can see multiple messages at once|N/A|N/A|
+|Good: Can privately message individuals in workspace about opportunities they send in public channels|N/A|N/A|
 
 4. consistency and standards
 
 |Evaluation|Severity Rating|Solution|
 |----------|---------------|--------|
-|Good: jargon such as channel, thread, and workspace is common|
-|Good: clear distinctions between the different channels are their use|
+|Good: jargon such as channel, thread, and workspace is common|N/A|N/A|
+|Good: clear distinctions between the different channels are their use|N/A|N/A|
 
 5. error prevention
 
 |Evaluation|Severity Rating|Solution|
 |----------|---------------|--------|
-|Good: if wifi is cut off, messages cannot be sent|
-|Good: character limit changes as letters are typed within channel-name when creating a channel
+|Good: if wifi is cut off, messages cannot be sent|N/A|N/A|
+|Good: character limit changes as letters are typed within channel-name when creating a channel|N/A|N/A|
 |Allows users to add more than 8 people in a groupchat even though capacity is 8, and type message (it just doesn't sent even though send buttom is still green)|1|grey out send button, do not let users add more members to private group beyond capacity
 
 6. recognition rather than recall
 
 |Evaluation|Severity Rating|Solution|
 |----------|---------------|--------|
-|Good: users' names pop up once a letter is typed when adding members to chat or channel|
-|Good: recently used emojis pop up first, including customized emojis|
-|Good: location to look at message draft at top of channel list so users can recall|
-|Good: Drop down to creat bookmark under each channel|
+|Good: users' names pop up once a letter is typed when adding members to chat or channel|N/A|N/A|
+|Good: recently used emojis pop up first, including customized emojis|N/A|N/A|
+|Good: location to look at message draft at top of channel list so users can recall|N/A|N/A|
+|Good: Drop down to creat bookmark under each channel|N/A|N/A|
 
 7. flexibility and efficiency of use
 
 |Evaluation|Severity Rating|Solution|
 |----------|---------------|--------|
-|Good: Notifications are customizable|
-|Good: Can schedule slack messages|
-|Good: include customizable emojis per workspace|
+|Good: Notifications are customizable|N/A|N/A|
+|Good: Can schedule slack messages|N/A|N/A|
+|Good: include customizable emojis per workspace|N/A|N/A|
 
 8. aesthetic and minimalist design
 
@@ -89,8 +89,8 @@ Slack is a well-rounded app. The only drawback as a users is that since you like
 
 |Evaluation|Severity Rating|Solution|
 |----------|---------------|--------|
-|Good: the error when too many members are added to a groupchat includes a button to create a channel instead with unlimited members|
-|Good: Prompted to try again when you add spaces, periods, or most punctuation|
+|Good: the error when too many members are added to a groupchat includes a button to create a channel instead with unlimited members|N/A|N/A|
+|Good: Prompted to try again when you add spaces, periods, or most punctuation|N/A|N/A|
 |Unclear what punctuations can/can't be added to channel name|1|include list of okay punctuatioons in error|
 
 10. help and documentation
@@ -98,7 +98,7 @@ Slack is a well-rounded app. The only drawback as a users is that since you like
 |Evaluation|Severity Rating|Solution|
 |----------|---------------|--------|
 |There aren't many messages about how to use the workspace from the owner/creator of the workspace so it is difficult to gauge how users should use the workspace and promoting comfortability in doing so|2|have a message / tutorial for new users and show messages in channels from a diversity of students|
-|Good: bookmarks are available in each channel so documentation can be saved|
+|Good: bookmarks are available in each channel so documentation can be saved|N/A|N/A|
 
 ### [Los Angeles Food Policy Council](https://www.goodfoodla.org/)
 <img width="1407" alt="Screen Shot 2022-10-05 at 0 49 02" src="https://user-images.githubusercontent.com/56706104/194009293-be77c744-ba50-4b03-a163-f5c4255fdd95.png">
@@ -115,14 +115,14 @@ This website includes all of the basic information that one may want to see. It 
 |Evaluation|Severity Rating|Solution|
 |----------|---------------|--------|
 |When selecting the title of items in the menu bar, it is unclear where it goes to the users and in reality it goes to the first item within the menu|2|have title pages for each menu item that users go to when they click on titles; show which menu bar users are under when they select an item within one of the menu items|
-|Good: Hovering over the button yields very clear inverted colors so users are aware it's a buttom|
+|Good: Hovering over the button yields very clear inverted colors so users are aware it's a buttom|N/A|N/A|
 
 2. match between system and real world
 
 |Evaluation|Severity Rating|Solution|
 |----------|---------------|--------|
-|Good: They have nested menu items similar to how folders on computers work|
-|Good: Menu bar delineates different genres of opportunities that users might be interested in (publications, programs, engagement)|
+|Good: They have nested menu items similar to how folders on computers work|N/A|N/A|
+|Good: Menu bar delineates different genres of opportunities that users might be interested in (publications, programs, engagement)|N/A|N/A|
 |The delieanation between the different genres above are not clear (sepecifically: events, programs, engagement)|2|consolidate all opportunities under one menu item and delineate within the menu tab; consolidate the different genres|
 3. user control and freedom
 
@@ -135,23 +135,23 @@ This website includes all of the basic information that one may want to see. It 
 
 |Evaluation|Severity Rating|Solution|
 |----------|---------------|--------|
-|Good: They have standard page titles such as "Home", "About Us", etc.|
-|Good: Have whole pages dedicated to organization specific terms|
+|Good: They have standard page titles such as "Home", "About Us", etc.|N/A|N/A|
+|Good: Have whole pages dedicated to organization specific terms|N/A|N/A|
 
 5. error prevention
 
 |Evaluation|Severity Rating|Solution|
 |----------|---------------|--------|
-|Good: Relatively static website so minimal points of errror|
-|Good: All links seem to work and go places|
+|Good: Relatively static website so minimal points of errror|N/A|N/A|
+|Good: All links seem to work and go places|N/A|N/A|
 
 6. recognition rather than recall
 
 |Evaluation|Severity Rating|Solution|
 |----------|---------------|--------|
-|Good: include all social media logos as a footer on all pages so users can click on and go directly to LAFPC's profile|
-|Good: When donating, you're given suggestions for values donation that you can click, and options of repeating or one-time donations are in a drop-down|
-|Good: there are "Join me" buttons under each working group, which is the main mode of participation as a public member|
+|Good: include all social media logos as a footer on all pages so users can click on and go directly to LAFPC's profile|N/A|N/A|
+|Good: When donating, you're given suggestions for values donation that you can click, and options of repeating or one-time donations are in a drop-down|N/A|N/A|
+|Good: there are "Join me" buttons under each working group, which is the main mode of participation as a public member|N/A|N/A|
 |Users do not know they can get recurring notifications via email about LAFPC for updates and information|1|Have mailing list sign-up be the first prompt users get|
 
 7. flexibility and efficiency of use
@@ -164,21 +164,21 @@ This website includes all of the basic information that one may want to see. It 
 
 |Evaluation|Severity Rating|Solution|
 |----------|---------------|--------|
-|Good: Consistent colors throughout the website that match their logo|
+|Good: Consistent colors throughout the website that match their logo|N/A|N/A|
 |Could have the mailing list email field be in line with aesthetic of rest of website|1|change style to match|
 
 9. help users recognize. diagnose, and recover from error
 
 |Evaluation|Severity Rating|Solution|
 |----------|---------------|--------|
-|Good: In email field for mailing list, if you input and invalid email and click "subscribe" you will be prompted to input a valid email address|
-|Good: If you type in non-numerical values into the money field under donations, it will autocorrect to zero|
+|Good: In email field for mailing list, if you input and invalid email and click "subscribe" you will be prompted to input a valid email address|N/A|N/A|
+|Good: If you type in non-numerical values into the money field under donations, it will autocorrect to zero|N/A|N/A|
 
 10. help and documentation
 
 |Evaluation|Severity Rating|Solution|
 |----------|---------------|--------|
-|Good: Thorough explanations of their local tersm|
+|Good: Thorough explanations of their local tersm|N/A|N/A|
 |Unclear what being a member of a working group involved|2|create a small section of information on top of working group breakdown to explain what it means to be a member|
 
 
