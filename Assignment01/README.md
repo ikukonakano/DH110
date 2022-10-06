@@ -123,7 +123,7 @@ This website includes all of the basic information that one may want to see. It 
 |----------|---------------|--------|
 |Good: They have nested menu items similar to how folders on computers work, mimicking real world system|N/A|N/A|
 |Good: Menu bar delineates different genres of opportunities that users might be interested in (publications, programs, engagement) to categorize external opportunities|N/A|N/A|
-|The delieanation between the different genres above are not clear (sepecifically: events, programs, engagement)|2|source is the overlapping nature of terms chosen; consolidate all opportunities under one menu item and delineate within the menu tab; consolidate the different genres|
+|The delineation between the different genres above are not clear (sepecifically: events, programs, engagement)|2|source is the overlapping nature of terms chosen; consolidate all opportunities under one menu item and delineate within the menu tab; consolidate the different genres|
 3. user control and freedom
 
 |Evaluation|Severity Rating|Solution|
