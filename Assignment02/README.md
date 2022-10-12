@@ -35,6 +35,7 @@ Therefore, the usability testing aims to find out how to improve the LAFPC's web
 [https://docs.google.com/forms/d/e/1FAIpQLSena5TWgOGJQpX80mi8sKzGVLoV3-ehvWqyxHmK7awQeh0ghw/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSena5TWgOGJQpX80mi8sKzGVLoV3-ehvWqyxHmK7awQeh0ghw/viewform?usp=sf_link)
 
 ### Link to the UT Video
+[https://drive.google.com/file/d/1L491YJvXUE3RZB8lotLbQee_Y0Gy_1nV/view?usp=sharing](https://drive.google.com/file/d/1L491YJvXUE3RZB8lotLbQee_Y0Gy_1nV/view?usp=sharing)
 
 ### Reflection
 In this UT pilot survey, I learned that this website is, as expected, convoluted and cumbersome to use in design and organization. Additionally, I learned what a new user who has never seen the website would think during the process of exploring the website. I think my tasks elicited expected dissatisfaction with specific heuristic issues, which validated my suspicions. However, I need to fix some mistypes in the survey. Additionally, I need to fix the questions in the post-test questionnaire to make sure the tasks are listed for each questions. Finally, the steps of the tasks were not necessarily linear by nature of this website. Therefore, for the future, I would like to improve my UT be tweaking the steps of the tasks to adjust for the lack of linearity of the website. 
