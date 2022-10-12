@@ -37,6 +37,8 @@ Therefore, the usability testing aims to find out how to improve the LAFPC's web
 ### Link to the UT Video
 
 ### Reflection
-* what you learned during the pilot test, 
-* what went well and what went not so well 
-* how you want to improve your UT in the future
+In this UT pilot survey, I learned that this website is, as expected, convoluted and cumbersome to use in design and organization. Additionally, I learned what a new user who has never seen the website would think during the process of exploring the website. I think my tasks elicited expected dissatisfaction with specific heuristic issues, which validated my suspicions. However, I need to fix some mistypes in the survey. Additionally, I need to fix the questions in the post-test questionnaire to make sure the tasks are listed for each questions. Finally, the steps of the tasks were not necessarily linear by nature of this website. Therefore, for the future, I would like to improve my UT be tweaking the steps of the tasks to adjust for the lack of linearity of the website. 
+
+However, for this user specifically, it was clear that his technical experience had supported his use of this website. Additionally, this allowed the user to make more acute observations and insights into what he was struggling with and why. I did as moderator have to  Finally, this user was clearly removed from the food activism community, which influences his interest in this website. This lack of interest could have influenced his opinion.
+
+Moving forward, in addition to the above mentioned changes, I would include the information I interjected off-script.
