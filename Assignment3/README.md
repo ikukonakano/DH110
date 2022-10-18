@@ -58,8 +58,9 @@ Here is the **recording**.
 
 Here is the **transcript**.
 
-Here are some interesting observations from the contextual inquiry
-1️⃣
+Here are some interesting quotes from the contextual inquiry transcript
+
+:one: 
 
 ## Reflection
 
