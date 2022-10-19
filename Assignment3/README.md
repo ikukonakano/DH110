@@ -54,9 +54,9 @@ Coco Nakano | DH 110 | Fall 2022
 
 Here is the **[script](https://docs.google.com/document/d/1cs6mBN3LS5G_ky92IQjkEkR6z09mAUTlzMs9ZVY188I/edit?usp=sharing)**.
 
-Here is the **recording**.
+Here is the **[recording](https://drive.google.com/file/d/1PdjHojbhLiTAZhroiHuREX_Fbtcg0Tif/view?usp=sharing)**.
 
-Here is the **transcript**.
+Here is the **[transcript](https://docs.google.com/document/d/1v6-KqM4j8vOz0e-xfyYaEjCvYxGOVOWGURgVkUls5NA/edit?usp=sharing)**.
 
 Here are some interesting quotes from the contextual inquiry transcript
 
