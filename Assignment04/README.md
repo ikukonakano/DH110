@@ -10,13 +10,13 @@ Coco Nakano | DH 110 | Fall 2022
 
 ## TWO Personas and Empathy Maps
 
-### Persona 1: Jacob Green - social, second-year UCLA student
+### Persona 1: Jacob Green
 
 ![Persona-Jacob](https://user-images.githubusercontent.com/56706104/197659964-acbbde03-8db5-4ff3-96cf-5aed79e5435d.png)
 
 ![EmpathyMap-Jacob](https://user-images.githubusercontent.com/56706104/197659960-2f18b77d-37f4-436b-b40a-05b02fbb46a0.png)
 
-### Persona 2: Claudia Frasier - pass
+### Persona 2: Claudia Frasier 
 
 ![Persona-Claudia](https://user-images.githubusercontent.com/56706104/197824577-232b8736-71d0-44a2-9877-20d6779e6de7.png)
 
