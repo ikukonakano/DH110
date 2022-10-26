@@ -6,7 +6,7 @@ Coco Nakano | DH 110 | Fall 2022
 
 > Generally, the purpose of UX storytelling is to walk in the shoes of users and ensure an empathetic understanding of  users' experiences. This consists of the development of thorouhg prototypical users for research. In so doing, it allows developers and designers to create products and improvements that will best support users' intentions on the product. Additionally, this minimizes biases of those involved in the product development by critically thinking about personalities outside of one's own.
 > 
-> Specifically, for this project, the puropse of UX storytelling is to understand the perspective of various members of the Food Studies community. As people within the community are at various stages of involvement, accomodating the diversity of users is especially important in making this an accessible and useful product for users.
+> Specifically, for this project, the purpose of UX storytelling is to understand the perspective of various members of the Food Studies community. As people within the community are at various stages of involvement, accomodating the diversity of users is especially important in making this an accessible and useful product for users.
 
 ## TWO Personas and Empathy Maps
 
