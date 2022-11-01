@@ -1,4 +1,4 @@
-# Assignment 03: Contextual Inquiry
+# Assignment 04: User Personas
 
 Coco Nakano | DH 110 | Fall 2022
 
