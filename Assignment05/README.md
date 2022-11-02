@@ -44,10 +44,15 @@ User was a friend who is in her mid 20s. She has experience with food banks, exp
 
 
 Note of users confusion & enjoyment (written in images and written below):
+
 Task 1 - What happens if I click next without filling in all the info? 
+
 Task 1 - How do I add more than 1 criteria? I see the plus sign but it isn’t clear with the arrows
+
 Task 2 - I like this flow!
+
 Task 2 - What if a resource is outdated?
+
 Task 3 - Simple and informative; I’m curious about the website’s overall search function & the utility of it
 
 ## Improvements Based on User Feedback
