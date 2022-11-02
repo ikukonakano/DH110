@@ -1,4 +1,4 @@
-# Assignment 04: Low-Fidelity Prototype
+# Assignment 05: Low-Fidelity Prototype
 
 Coco Nakano | DH 110 | Fall 2022
 
