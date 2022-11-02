@@ -28,7 +28,7 @@ Then, I created [user personas](https://github.com/ikukonakano/DH110/blob/main/A
 ### Tasks/Features
 * Share a food resource
 * Find a food resource
-* Learn about food activism
+* Learn about hunger on global, USA, and CA/LA level
 
 ## [Prototype](https://www.figma.com/file/mOi7jhEjIckWd0VRmQoyX5/Untitled?node-id=0%3A1)
 
