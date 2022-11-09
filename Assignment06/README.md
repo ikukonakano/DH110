@@ -98,25 +98,42 @@ This layout has 5 rows and 5 columns. The margins for the rows are 80. The margi
 
 ### Typeface family and size
 
-Header: I chose a decorative typeface called "Permanent Marker" that was used for the title of the page 
-For all other text, I chose a typeface family called "Inter".
+Title text: "Permanent Marker", 50 pt., Line Height: 30, Letter Spacing: 1 px
 
-Body text: “Inter”, Regular, 16 pt., Line spacing: 2, Letter spacing: -0.17 px
-Subtitle text: “Inter”, Medium, 18 pt., Letter spacing: -0.17 px
-Caption text: “Inter”, Regular, 10 pt., Line spacing: 1.5. Letter spacing: 0 px
-How I made the decision: I chose the decorative typeface "Mochiy Pop One" because I felt like it looked like a fun font that was still legible. I didn't want to overuse the font, which is why I opted to use it scarcely for areas like the headers, or for the name of the app on the landing page. I used a 24pt size for the title text because it was 1.5x the size of the size of my body text.
+For all other text, I chose a typeface family called "Work Sans".
 
-I chose the typeface family "Inter" for everything else in the app because it is a sans-serif font that looks clean and easy to read. It also had multiple weight options, which all looked great. I used a 16pt size for my body text in regular weight because it was suggested, and I felt like it was a good size when I tested it on the wireframe. I used a 18pt size for my subtitle text in medium weight for the subtitles. I chose a different font weight because I wanted to create a stronger emphasis on the information provided here. I also made the font size a bit larger so that it is more noticable than the body text, but wasn't overbearing the page. I used a 10pt size for my caption text in regular weight because this size fit the best underneath the icons that I wanted to use this text for without going too small.
+Body text: Regular, 16 pt., Line Height: 20, Letter Spacing: 0.6 px
 
-Color scheme
-background color (sand): FFFAF6
-text color (black): 393939
-Accent colors
+Menu text: Regular, 14 pt., Line Height: 16, Letter Spacing: 0.6 px
 
-brown (for headers and footers): 60492C
-blue (for interactive elements): 2D8B90
-green (for interactive elements): 748106
-How I made the decision: For the color scheme, I wanted to use Hawaii's Division of State Parks website as inspiration, as well as the images of Hawaii displayed on their front page. The colors I chose (sand and blue) were very nature and beach themed, which is inspired by what Hawaii is best known for. The brown and green was also inspired by the branding used on Hawaii's Division of State Parks website, so overall, I am happy with the final color scheme. My interviewee also noticed how the colors reminded them of the beach and palm trees, which was my intention with these colors.
+Button text: Regular, 14
+
+Key text: Regular, 14, Letter Spacing: 0.6 px, Line Height: 16
+
+Pop-up text: Mixed, 7 & 8 pt., Letter Spacing: 0.08, Line Height: 10
+
+Rationale: I made the choice to use "Permanent Marker" for the title because I thought it was an interesting and different font that was still legible. Since this is a website that uses crowdsourced information, this font in particular felt especially hand-written. I used it sparingly because it would be overwhelming as a user to see this font everywhere in more text heavy places (i.e. the "how to use section"). I used bigger text for the title to make it pop, and I made the section on the left of the screen a bit bigger than the key/legend so users would be drawn to it before using the map.
+
+I made the choice to use "Work Sans" for all other text because it is a simple, clean, and very legible font. I used the various weighting options to my advantage. For example, I change the weight of the "How to Use" title in between two section of body text on the left to differentiate these sections and make it look easier to read. Additionally, this font came in hand when creating the pop-up. The pop-up has smaller font because there are many items in the map, and so all the information to fit concisely within the map. In the pop-up, I utilize the various weights and styles (bold, italicized) to differentiate titles/section and content. 
+
+### Color scheme
+
+Light mode / dark mode
+
+body background color / body text color (white): FFFFFF
+
+body text color / body background color (black): 393939
+
+
+**Accent colors**
+
+brown (for title): 60492C
+
+blue (for subtitle within body text): 2D8B90
+
+green (for interactive elements): 78B351 & 9AC77C
+
+Rationale: I used the Los Angeles Food Policy Council (LAFPC)'s website as inspiration. However, for accessibility purposes, I wanted to chose colors that allowed for more contrast. Thus, I based the color scheme on the LAFPC's website but changed them a bit to reflect this. For example, as opposed to the orange (F59338) that is used for their website, I used the brown color above. I acted similarly for the blue and green.
 
 Layout grid and spacing
 for the layout grid, I used a 10 pixel grid, where the distance between each grid space represented 10 pixels.
