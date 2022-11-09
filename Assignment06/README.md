@@ -144,7 +144,7 @@ Rationale: Since the map is the primary function of this page, the map is takes 
 
 Please find the recording of the impressions test here: https://drive.google.com/file/d/1-FcbM2Wp1sANFVSfpo34EvAu-XJAxIRT/view?usp=sharing
 
-Note: My interviewee wanted this video to be kept private, so I shared the file with you on Google Drive. The link to the video should work if you are logged into your email! Please let me know if there are any issues, thank you!
+(The video is also attached in the assignment 6 folder under FiveSecondImpressionTest.mp4)
 
 Summary of Findings
 With the 5-second first impressions test, the interviewee remembered the colors they noticed, the general content of the text, and a filter option (referencing the drop-down feature).
