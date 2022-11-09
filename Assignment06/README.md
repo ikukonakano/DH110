@@ -11,7 +11,7 @@ The purpose of this interface design is to refine the low-fidelity prototype tha
 
 The frame I designed is the following:
 
-<img width="768" alt="Screen Shot 2022-11-08 at 19 22 03" src="https://user-images.githubusercontent.com/56706104/200730852-dbce12b0-5633-4c6a-a9da-af5fc5150d66.png">
+<img width="915" alt="Screen Shot 2022-11-08 at 19 36 09" src="https://user-images.githubusercontent.com/56706104/200732313-8813eeb4-9397-4a59-a2f3-8aaf9988b62c.png">
 
 [NOTE: all images are attached as file for higher resolution viewing]
 
@@ -30,11 +30,11 @@ Image to wireflow:
 
 ### Typgraphic Variations
 
-<img width="724" alt="Screen Shot 2022-11-08 at 19 22 53" src="https://user-images.githubusercontent.com/56706104/200731610-90287a09-dafc-493b-8760-f8554b1abba8.png">
+<img width="1000" alt="Screen Shot 2022-11-08 at 19 35 30" src="https://user-images.githubusercontent.com/56706104/200732348-0eb401c3-546a-4a8a-b8c4-805a8d9d0601.png">
 
 ### Shape Variations
 
-<img width="447" alt="Screen Shot 2022-11-08 at 19 22 20" src="https://user-images.githubusercontent.com/56706104/200731587-69906f05-9787-499e-a025-f51eea052b23.png">
+<img width="597" alt="Screen Shot 2022-11-08 at 19 35 46" src="https://user-images.githubusercontent.com/56706104/200732334-98a7e43e-9533-46a3-97b4-39f004bfaf5f.png">
 
 ### Color Schemes
 
@@ -42,20 +42,26 @@ Image to wireflow:
 
 Inspiration was taken from the [Los Angeles Food Policy Website](goodfoodla.org) that the heuristic analysis and user testing was done on.
 
-<img width="662" alt="Screen Shot 2022-11-08 at 19 23 03" src="https://user-images.githubusercontent.com/56706104/200731637-03e5874b-a14b-4668-bc4d-5f7fd34e21b2.png">
-
+<img width="926" alt="Screen Shot 2022-11-08 at 19 34 59" src="https://user-images.githubusercontent.com/56706104/200732372-2abdee54-acf6-4ca8-96a3-bd5f44348a01.png">
 
 #### Light & Dark Mode
 
-<img width="408" alt="Screen Shot 2022-11-08 at 19 23 17" src="https://user-images.githubusercontent.com/56706104/200731647-9da8c611-9ca4-46fd-9488-a04f8599b392.png">
+<img width="850" alt="Screen Shot 2022-11-08 at 19 34 33" src="https://user-images.githubusercontent.com/56706104/200732418-b23f8f57-1ed2-471c-8e5f-92fecae7b671.png">
 
-<img width="410" alt="Screen Shot 2022-11-08 at 19 23 26" src="https://user-images.githubusercontent.com/56706104/200731653-effe19cd-3b21-43d8-9d7d-0ece247f17e9.png">
+<img width="850" alt="Screen Shot 2022-11-08 at 19 34 41" src="https://user-images.githubusercontent.com/56706104/200732408-673b69ce-d8f5-417d-977e-869b678c863a.png">
 
 ### Layout Test
+
+This layout has 5 rows and 5 columns. The margins for the rows are 80. The margins for the columns are 30.
+
+<img width="906" alt="Screen Shot 2022-11-08 at 19 39 45" src="https://user-images.githubusercontent.com/56706104/200732687-e5020265-31a7-4d8c-88cc-efd0a1e7593f.png">
+
 
 ## Accessibility Check (Color Contrast)
 
 ## Description of your decision making process about the final graphical interface design
+
+Layout testing: Since the map is the primary function of this page, the map is takes up 4 rows and 3 columns worth os space. The row margins were intended to leave space for the browsers' functions. The column margins are to ensure everything is visible and comfortably spaces. If the column margins weren't there, the screen would like cramped.
 
 ## Impression test
 
