@@ -7,7 +7,7 @@ Coco Nakano | DH 110 | Fall 2022
 ### Purpose, Process, and Project Description
 >This project provides a platform for users to learn about, share and find resources for food access within the LA area.
 
-The purpose of this interface design is to refine the low-fidelity prototype that was created for this appliaction into a fleshed out and digitized design.This means it includes design elements such as color, size, and typographic choice. This interface will be designed via Figma. For these designs I will using Macbook Air screen size. The dimensions of the frames for these designs were based on the iPhone 11 Pro / X screen size. I utilized various resources to create the graphic design system, including Google Fonts, *** *** ***. Building this interface design system will allow me to test different features and iterative improve the interface design system efficiently in the future.
+The purpose of this interface design is to refine the low-fidelity prototype that was created for this appliaction into a fleshed out and digitized design.This means it includes design elements such as color, size, and typographic choice. This interface will be designed via Figma. For these designs I will using Macbook Air screen size. The dimensions of the frames for these designs were based on the iPhone 11 Pro / X screen size. I utilized various resources to create the graphic design system, including Google Fonts, The Los Angeles Food Policy Council's website, Stark. Building this interface design system will allow me to test different features and iterative improve the interface design system efficiently in the future.
 
 The frame I designed is the following:
 
@@ -67,8 +67,7 @@ Inspiration was taken from the [Los Angeles Food Policy Website](goodfoodla.org)
 
 ### Layout Test
 
-This layout has 5 rows and 5 columns. The margins for the rows are 80. The margins for the columns are 30. Since the map is the primary function of this page, the map is takes up 4 rows and 3 columns worth os space. The row margins were intended to leave space for the browsers' functions. The column margins are to ensure everything is visible and comfortably spaces. If the column margins weren't there, the screen would like cramped. The text explaining the purpose and function of the page was put into one brief column on the left. 
-
+This layout has 5 rows and 5 columns. The margins for the rows are 80. The margins for the columns are 30. 
 
 <img width="906" alt="Screen Shot 2022-11-08 at 19 39 45" src="https://user-images.githubusercontent.com/56706104/200732687-e5020265-31a7-4d8c-88cc-efd0a1e7593f.png">
 
@@ -135,13 +134,12 @@ green (for interactive elements): 78B351 & 9AC77C
 
 Rationale: I used the Los Angeles Food Policy Council (LAFPC)'s website as inspiration. However, for accessibility purposes, I wanted to chose colors that allowed for more contrast. Thus, I based the color scheme on the LAFPC's website but changed them a bit to reflect this. For example, as opposed to the orange (F59338) that is used for their website, I used the brown color above. I acted similarly for the blue and green.
 
-Layout grid and spacing
-for the layout grid, I used a 10 pixel grid, where the distance between each grid space represented 10 pixels.
-How I made the decision: I chose to use a grid because I was familiar with grids from my past graphic design experiences and found them easier to use and organize spacing based on my personal experiences. I also used 3 grid spaces (aka 30 pixels) a lot for the design elements and spacing. For example, the drop down menu's height was 3 grid spaces, the gutter was 3 grid spaces, and the distance between each state park component was 3 grid spaces as well. This was done to provide more consistency within the design when it came to spacing.
+### Layout grid and spacing
 
-I put the purpose and the "how to use" description both on the left of the screen. This is because
+I used a layout of 5 (rows) x 5 (columns). The margins for the rows are 80. The margins for the columns are 30.
+
+Rationale: Since the map is the primary function of this page, the map is takes up 4 rows and 3 columns worth of space. The row margins were intended to leave space for the browsers' functions. The column margins are to ensure everything is visible and comfortably spaces. If the column margins weren't there, the screen would like cramped. The text explaining the purpose and function of the page was put into one brief column on the left. I put the purpose and the "how to use" description both on the left of the screen. Since English is read from left to right, I figure the directions/background for this page should appear on the left (as opposed to the right).
 
 ## Impression test
-
 
 Link to the interface design page that shows your test screens and design system information
