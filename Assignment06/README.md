@@ -59,7 +59,11 @@ Inspiration was taken from the [Los Angeles Food Policy Website](goodfoodla.org)
 
 <img width="850" alt="Screen Shot 2022-11-08 at 19 34 33" src="https://user-images.githubusercontent.com/56706104/200732418-b23f8f57-1ed2-471c-8e5f-92fecae7b671.png">
 
+(This image is attached in the assignment 6 folder under LightMode.png)
+
 <img width="850" alt="Screen Shot 2022-11-08 at 19 34 41" src="https://user-images.githubusercontent.com/56706104/200732408-673b69ce-d8f5-417d-977e-869b678c863a.png">
+
+(This image is attached in the assignment 6 folder under DarkMode.png)
 
 ### Layout Test
 
@@ -94,7 +98,7 @@ This layout has 5 rows and 5 columns. The margins for the rows are 80. The margi
 
 ### Typeface family and size
 
-Header: I chose a decorative typeface called "Permanent Marker" that was used for the title of the page (
+Header: I chose a decorative typeface called "Permanent Marker" that was used for the title of the page 
 For all other text, I chose a typeface family called "Inter".
 
 Body text: “Inter”, Regular, 16 pt., Line spacing: 2, Letter spacing: -0.17 px
