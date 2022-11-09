@@ -142,21 +142,10 @@ Rationale: Since the map is the primary function of this page, the map is takes 
 
 ## Impression test
 
-Please find the recording of the impressions test here: https://drive.google.com/file/d/1-FcbM2Wp1sANFVSfpo34EvAu-XJAxIRT/view?usp=sharing
+[Link](https://drive.google.com/file/d/1R8URxybp2fcHlosYPm98everapdqtE78/view?usp=share_link) to impression test: https://drive.google.com/file/d/1R8URxybp2fcHlosYPm98everapdqtE78/view?usp=share_link
 
 (The video is also attached in the assignment 6 folder under FiveSecondImpressionTest.mp4)
 
-Summary of Findings
-With the 5-second first impressions test, the interviewee remembered the colors they noticed, the general content of the text, and a filter option (referencing the drop-down feature).
+**Summary of Findings**
 
-When I asked for their opinion on the design, these are some of the key takeaways from the interview:
-
-Referencing the decorative header text: "I don't really understand why it is in that font compared to the rest of the app."
-
-Referencing the toggle button between the map and list views: "I feel like there might be a better way to indicate the toggle between the back and the forth of that."
-
-Referencing the activities icons: "Right now, I would have to make assumptions on what those icons are."
-
-Referencing the color palette: "I like the white and the blue, it kind of reminds me of the ocean and sand. And the green with the palm trees. I'm just not a big fan of the brown."
-
-In summary, the interviewee noted how the color scheme matched the inspiration that I used (the images from Hawaii's Division of State Parks website). However, they did not like the brown color that was used in the branding of the website. They also noted how there could be ways to make the app more convenient, such as with the activities icons and ways to improve the toggle button. I was able to use this feedback to create a new toggle button before writing up this documentation, which is why the toggle button design looks different between this documentation and the impressions video.
+With the 5-second first impressions test, the interviewee noted the colors and appreciated them. Additionally, the interviewee appreciated that the website included directions on how to use the map function. He was wary of map functions in general because they are typically hard-to-use and not explained. This is a good thing to know and be cautioned about. I will use this feedback to make sure I make the map accessible and easy to use. The interviewee enjoyed the aesthetic of the overall video. After the interview, I additionally got word he enjoyed the font and thought it was "fun."
