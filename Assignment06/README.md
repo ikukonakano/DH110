@@ -142,4 +142,21 @@ Rationale: Since the map is the primary function of this page, the map is takes 
 
 ## Impression test
 
-Link to the interface design page that shows your test screens and design system information
+Please find the recording of the impressions test here: https://drive.google.com/file/d/1-FcbM2Wp1sANFVSfpo34EvAu-XJAxIRT/view?usp=sharing
+
+Note: My interviewee wanted this video to be kept private, so I shared the file with you on Google Drive. The link to the video should work if you are logged into your email! Please let me know if there are any issues, thank you!
+
+Summary of Findings
+With the 5-second first impressions test, the interviewee remembered the colors they noticed, the general content of the text, and a filter option (referencing the drop-down feature).
+
+When I asked for their opinion on the design, these are some of the key takeaways from the interview:
+
+Referencing the decorative header text: "I don't really understand why it is in that font compared to the rest of the app."
+
+Referencing the toggle button between the map and list views: "I feel like there might be a better way to indicate the toggle between the back and the forth of that."
+
+Referencing the activities icons: "Right now, I would have to make assumptions on what those icons are."
+
+Referencing the color palette: "I like the white and the blue, it kind of reminds me of the ocean and sand. And the green with the palm trees. I'm just not a big fan of the brown."
+
+In summary, the interviewee noted how the color scheme matched the inspiration that I used (the images from Hawaii's Division of State Parks website). However, they did not like the brown color that was used in the branding of the website. They also noted how there could be ways to make the app more convenient, such as with the activities icons and ways to improve the toggle button. I was able to use this feedback to create a new toggle button before writing up this documentation, which is why the toggle button design looks different between this documentation and the impressions video.
