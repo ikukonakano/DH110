@@ -17,7 +17,7 @@ Coco Nakano | DH 110 | Fall 2022
 * Input a resource into the Food Family database
 * Use map view to find various resources in Los Angeles
 
-## Wireflow & Link
+## Wireflow & Link to Protoype 1
 
 ## Cognitive Walkthrough
 
@@ -31,4 +31,4 @@ Here is a link to my [cognitive walkthrough survey and data](https://docs.google
   what went smoothly or differently from your expectation
   What you would change or design differently based on the feedback you got from the prototype testing. 
 
-## Usability Testing
+## Wireflow & Link to Protoype 1
