@@ -72,7 +72,6 @@ Here is the **[transcript](https://docs.google.com/document/d/1v6-KqM4j8vOz0e-xf
 :four: The interviewee felt that they would be more inclined to use a centralized platform if other's regularly used it as well.
 > Referred to this as a "snowball effect"
 
-
 ## Reflection
 
 I think this task went relatively well. There was a technological issue that did not occur in the pilot testing of the participants video feed not displaying while they were sharing screen. This inhibits my ability to analyze their facial expressions during the task. This is something I will make sure to sort out for the future. I believe that these questions were generally pretty well-organized and allowed the user to give detailed feedback about their experience sharing/finding resources. I would improve my delivery of the script by reading the questions directly off of the script. I was too focused on making it sound like a discussion that I strayed away from the wording of the question, which made some of the questions confusing to the user. 
