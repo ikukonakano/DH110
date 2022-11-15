@@ -19,7 +19,15 @@ Coco Nakano | DH 110 | Fall 2022
 
 ## Wireflow & Link to Protoype 1
 
-Here is the [link to my second high-fidelity prototype](https://www.figma.com/file/sfS7CJPRwvyrR1QLqUeU1W/High-Fidelity-Prototype-1?node-id=0%3A1) that uses feedback from the cognitive walkthrough.
+Here is the [link to my second high-fidelity prototype](https://www.figma.com/file/sfS7CJPRwvyrR1QLqUeU1W/High-Fidelity-Prototype-1?node-id=0%3A1).
+
+Below are images of the components I created as well as the overall wireflow. This is intended to show the complexities of the wireflow. For a more detailed view, please open the link above.
+
+![Screen Shot 2022-11-14 at 22 20 44](https://user-images.githubusercontent.com/56706104/201841995-6fcaccb1-8dfd-4124-a739-04fbae478f35.png)
+
+![Screen Shot 2022-11-14 at 22 20 09](https://user-images.githubusercontent.com/56706104/201841980-99d7956b-230c-4036-8153-fe4096e132cb.png)
+
+
 
 ## Cognitive Walkthrough
 
@@ -60,3 +68,10 @@ Based off of these results, I have created a high-fidelity prototype 2 to reflec
 ## Wireflow & Link to Protoype 2
 
 Here is the [link to my second high-fidelity prototype](https://www.figma.com/file/K7TmH3aUWoYi9ccKgiVmu4/High-Fidelity-Prototype-2?node-id=0%3A1&t=gwTXpDfbQOfo4zSX-1) that uses feedback from the cognitive walkthrough.
+
+Below are images of the components I created as well as the overall wireflow. This is intended to show the complexities of the wireflow. For a more detailed view, please open the link above.
+
+![Screen Shot 2022-11-14 at 22 22 49](https://user-images.githubusercontent.com/56706104/201842407-fff85436-1c16-4bb8-a796-3ebc3a6aa0ba.png)
+
+![Screen Shot 2022-11-14 at 22 23 17](https://user-images.githubusercontent.com/56706104/201842417-08eb13f0-ebbf-443f-b556-9e7d7ff44023.png)
+
