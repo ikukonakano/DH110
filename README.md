@@ -1,6 +1,6 @@
 # Food Family
 
-**| Coco Nakano | DH110 | Fall 2022 |**
+** Coco Nakano | DH110 | Fall 2022 **
 
 ## Introduction
 
