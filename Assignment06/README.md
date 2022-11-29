@@ -35,13 +35,18 @@ Image of wireflow:
 
 ### Typgraphic Variations
 
+**Header using Permanent Marker font**
 <img width="1000" alt="Screen Shot 2022-11-08 at 19 35 30" src="https://user-images.githubusercontent.com/56706104/200732348-0eb401c3-546a-4a8a-b8c4-805a8d9d0601.png">
 
+**Header using Work Sans font**
 <img width="856" alt="Screen Shot 2022-11-29 at 2 02 00" src="https://user-images.githubusercontent.com/56706104/204499372-dc3f3298-1b2c-449d-8878-6b786b953a9b.png">
 
+**Header using Pecita font**
 <img width="858" alt="Screen Shot 2022-11-29 at 2 01 44" src="https://user-images.githubusercontent.com/56706104/204499342-6b647f70-433e-438a-b0db-e5f34c89f573.png">
 
 (These images are attached in the assignment 6 folder under TypographicVariations.png, TypographicVariations2.png, TypographicVariations3.png, respectively.)
+
+Utimately, I chose Permanent Marker as my font of choice because it was decorative, unlike Work Sans which felt too flat and uninteresting and it was still bold and gave the page a strong title, unlike Pecita which was decorative but thin and weak.
 
 ### Shape Variations
 
