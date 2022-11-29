@@ -81,6 +81,8 @@ Using these personas and empathy maps, I was able to put myself into the shoes o
 
 ## Wireframe and Graphic Design Element Variations
 
+[Note: some of my tasks and information was edited based on feedback from the professor so the past sections may reflect different research questions and objectives than the ones at hand.]
+
 After getting into the perspective of potential users, I then began to draft the wireframes of my prototype. This allowed me to generate fast designs to test on users without investing too much time into details of the prototype (e.g. colors and shapes).
 
 I developed my wireframe based off of the core functionality I hoped for this program to acheive: sharing, finding, and learning.
@@ -105,15 +107,15 @@ Below is the Low Fidelity Wireflow, meant to give an overarching view of the pro
 
 ![LowFidWireflow](https://user-images.githubusercontent.com/56706104/204502100-704dbad8-8ae3-4cd0-bfd9-cd32830c3385.jpeg)
 
-I conducted user testing with the rudimentary wireframe and wireflow of the low fidelity prototype and I got feedback about the design, and certain key features that I would make sure to properly design or remove due to complexity.
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FmOi7jhEjIckWd0VRmQoyX5%2FLow-Fid-Prototype%3Fnode-id%3D0%253A1%26t%3Dk45awUf0eDPvp3jw-1" allowfullscreen></iframe>
+I conducted user testing with the rudimentary wireframe and wireflow of the low fidelity prototype and I got feedback about the design, and certain key features that I would make sure to properly design or remove due to complexity. This included assign asterisks on required fields, and changing the criteria question into an short-paragraph section instead of an additive table.
 
 **Find the full low-fidelity prototype [here](https://ikukonakano.github.io/DH110/Assignment05/)**
 
 ## High Fidelity Prototype
 
-Summary statement and link to or an embedded prototype
+Using feedback from the low fidelity prototype testing as well as the graphic design elements I decided on, I began the high fidelity prototype of this project.
+
+
 
 ## Revision History
 
