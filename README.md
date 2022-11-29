@@ -2,18 +2,15 @@
 
 **UX Project by Ikuko Nakano**
 
-## Introduction
-
-|What is the project about? The motivation of the project and possible contribution.|
----
-|My project will be in an effort to improve the user experience of a Food Studies minor at UCLA.|
-
+|Introduction|
+|---|
+|This project was developed as a part of the course, Digital Huamities 110: User Experience Design, offered in Fall 2022 at UCLA. It was taught by [Sookie Kim, a visiting lecturer](https://dh.ucla.edu/faculty/). This project was aimed at contributing to the second [UN Sustainable Development Goal](https://sdgs.un.org/goals) of achieving [Zero Hunger](https://sdgs.un.org/goals/goal2). Inspired by a common climate action phrase of "thinking globally, acting locally," this project aims to support Zero Hunger by sharing, finding, and learning about food resources in the Los Angeles region. Personally, I am motivated by my academic, professional, and experiential background with hunger.|
 
 ## Design Statement
 
 What is the issue and Why do you think it is important to resolve that issue by your project? 
 
-I am both a student of the food studies minor and an intern at a nonprofit that works within the realm of food activism. A common request among these communities is the need for a centralized hub for information, events, opportunities, and collaborations to be shared. If you look up "Los Angeles Food Activism" on Google, you'll quickly find the scattered links that only lead to specific organizations and their internal events. Other alternatives that consolidate resources are often in private communities and don't allow the public to join. Therefore, I would like to focus my project on creating a resource-sharing platform to support food activism.
+|The main issue identified through this project
 
 ## Competitor analysis: Heuristic Evaluation
 
