@@ -139,7 +139,7 @@ Please save the above image for a fullview of the wireflow.
 
 This was my first iteration of the high-fidelity prototype. This requires user testing and revision to ensure it's making the proper impact.
 
-**Find the full high-fidelity protoype [here](https://www.figma.com/community/file/1179468191852016179)**
+**Find the full, FIRST high-fidelity protoype [here](https://www.figma.com/community/file/1179468191852016179)**
 
 ## Revision History
 
@@ -168,7 +168,7 @@ These revision included
 * the feedback from above
 * the addition of the "learn" task that gives users more information on hunger as sustainability issue. 
 
-**Find the full high-fidelity protoype [here](https://www.figma.com/community/file/1179485618889678407)**
+**Find the full, FINALIZED high-fidelity protoype [here](https://www.figma.com/community/file/1179485618889678407)**
 
 Below is the High Fidelity wireflow, meant to give an overarching view of the prototype (not give a detailed look at any one page):
 
