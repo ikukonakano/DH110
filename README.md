@@ -38,7 +38,7 @@ What is the issue and Why do you think it is important to resolve that issue by 
 |Usability Testing|
 |--------------------|
 I conducted a pilot usability testing on the Los Angeles Food Policy Council to support my heuristic analysis and gain further insight about improvements that could be made on resource sharing platforms. <br><br> I designed tasks that include learning about the organization and searching for resources and opportunities for the public to engage to get a better understanding of how the webpage’s organization affects the information accessibility. <br><br> These tasks confirmed my evaluation that the website is convoluted and cumbersome. This allowed me to begin understanding the perspective of users. To continue this study of users, I next performed a contextual inquiry. <br><br> **Find the full usability testing [here](https://ikukonakano.github.io/DH110/Assignment02/)**|
-|<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSena5TWgOGJQpX80mi8sKzGVLoV3-ehvWqyxHmK7awQeh0ghw/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>|
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSena5TWgOGJQpX80mi8sKzGVLoV3-ehvWqyxHmK7awQeh0ghw/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
 ## User Testing: Contextual Inquiry
