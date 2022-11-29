@@ -120,7 +120,7 @@ The graphic design elements variations were designed with various ideas in mind,
 
 ## High Fidelity Prototype
 
-Using feedback from the low fidelity prototype testing as well as the graphic design elements I decided on, I began the high fidelity prototype of this project.
+Using feedback from the low fidelity prototype testing as well as the graphic design elements I decided on, I began the high fidelity prototype of this project focusing on two feature: sharing  and using a map to find resources.
 
 Below are examples of high fidelity prototype of the same pages above
 |Home Page|Share Page|
@@ -129,17 +129,18 @@ Below are examples of high fidelity prototype of the same pages above
 |**Find Page**|**Learn Page**|
 |<img width="560" alt="Screen Shot 2022-11-29 at 9 12 04" src="https://user-images.githubusercontent.com/56706104/204606557-d1a06a92-8399-4cda-8aab-2c545d4299eb.png">|<img width="560" alt="Screen Shot 2022-11-29 at 9 54 49" src="https://user-images.githubusercontent.com/56706104/204606590-5a1641a6-c8d6-40c2-896a-51a5d41805d4.png">|
 
-**Find the full high-fidelity protoype [here](https://www.figma.com/community/file/1179468191852016179)**
+### Interactive Wireflow
 
-Below is the High Fidelity wireflow, meant to give an overarching view of the prototype (not give a detailed look at any one page):
+Below is an image of the High Fidelity wireflow, meant to give an overarching view of the prototype (not give a detailed look at any one page):
 
 <img width="720" alt="Screen Shot 2022-11-29 at 9 58 21" src="https://user-images.githubusercontent.com/56706104/204607130-b8f371df-0fad-4572-b0b5-dfd2c59a6b68.png">
 
 Please click the above image for a fullview of the wireflow.
 
-**Find the full high-fidelity prototype  [here](https://ikukonakano.github.io/DH110/Assignment07/)**
-
 This was my first iteration of the high-fidelity prototype. This requires user testing and revision to ensure it's making the proper impact.
+
+
+**Find the full high-fidelity protoype [here](https://www.figma.com/community/file/1179468191852016179)**
 
 ## Revision History
 
@@ -161,13 +162,19 @@ Key findings from my first & new/final user testing
 
 **Find the full impression test & cognitive walkthrough [here](https://ikukonakano.github.io/DH110/Assignment07/)**
 
+### Revisions
+
 Based off of these feedbacks, I created a revised High Fidelity Prototype.
+These revision included
+* the feedback from above
+* the addition of the "learn" task that gives users more information on hunger as sustainability issue. 
 
 **Find the full high-fidelity protoype [here](https://www.figma.com/community/file/1179485618889678407)**
 
 Below is the High Fidelity wireflow, meant to give an overarching view of the prototype (not give a detailed look at any one page):
 
-<img width="549" alt="Screen Shot 2022-11-29 at 10 18 50" src="https://user-images.githubusercontent.com/56706104/204613522-2c668456-c406-43de-be4a-f29cb2cf7bc5.png">
+<<img width="549" alt="Screen Shot 2022-11-29 at 10 18 50" src="https://user-images.githubusercontent.com/56706104/204632030-53a4c7ab-0617-46c5-a59c-82679bed5408.png">
+>
 
 Please click the above image for a fullview of the wireflow.
 
@@ -175,8 +182,11 @@ Please click the above image for a fullview of the wireflow.
 
 ## Pitch Video
 
-introduction, design process about research-design-evaluation, walkthrough of the prototype, and what you learned  
-
 ## Conclusion
+This was a very interesting and informative experience.
 
-evaluation and reflection
+I enjoyed gaining tools and knowledge that would allow me to verbalize and articulate the usability of a platform. Not only this, but this course and project gave me an understanding of how to fix these problems and UX standards that should be upheld. Taking this course reinforced the importance of user experience design for accessibility purposes. It was enjoyable and very fulfilling to play with colors, do the color contract checks, and gain a broader understanding of what it means to be user friendly.
+
+I found difficulty in two main things: 1) learning platforms such as Github and Figma as we used them throughout the course, and 2) finding user participants for my study. I have never used either of these platforms and so I simultaneously had to learn them while learning the content and deploying finished assignments. As for finding participants, since I am student and my network is primarily made up of students, it was difficult finding folks who fit my target audience.
+
+Moving forward, I would like to spend more time learning how to recruit participants for these tests in a way that allows for designers to get the most accurate grasp of their target audience. Additionally, now that I am a bit more familiar with Github and Figma, I would like to spend more time on the content of my project and getting a chance to apply feedback from professionals and users.
