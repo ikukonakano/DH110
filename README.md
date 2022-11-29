@@ -36,9 +36,9 @@ Slack gives individuals a means of sharing and finding resources but the space c
 
 In terms of solutions: 1) Shared resources should include specific mandatory information, and 2) information should be uniform in aesthetic and in grouping terminology.
 
-**Find the full heuristic evaluation [here](https://ikukonakano.github.io/DH110/Assignment01/)**|
-
 <img width="500" alt="194009293-be77c744-ba50-4b03-a163-f5c4255fdd95" src="https://user-images.githubusercontent.com/56706104/204462191-cedcea93-3e11-4628-9fab-ce241d5bcdaf.png">
+
+**Find the full heuristic evaluation [here](https://ikukonakano.github.io/DH110/Assignment01/)**
 
 <iframe src="goodfoodla.org/" width="560" height="420"></iframe>
 
@@ -49,9 +49,9 @@ I designed tasks that include learning about the organization and searching for 
 
 These tasks confirmed my evaluation that the website is convoluted and cumbersome. This allowed me to begin understanding the perspective of users. To continue this study of users, I next performed a contextual inquiry.
 
-**Find the full usability testing [here](https://ikukonakano.github.io/DH110/Assignment02/)**
-
 <img width="500" alt="Screen Shot 2022-11-28 at 22 33 56" src="https://user-images.githubusercontent.com/56706104/204464573-70a2b833-1e14-49fd-bea1-539d7d327e25.png">
+
+**Find the full usability testing [here](https://ikukonakano.github.io/DH110/Assignment02/)**
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSena5TWgOGJQpX80mi8sKzGVLoV3-ehvWqyxHmK7awQeh0ghw/viewform?usp=sf_link" width="560" height="420"></iframe>
 
@@ -64,10 +64,11 @@ What I found was that sharing and finding resources within even a centralized co
 
 With these insights in mind, I was able to begin thinking about who the redesigned platform would serve.
 
+
 **Find the full usability testing [here](https://ikukonakano.github.io/DH110/Assignment02/)**
 
-Summary text and image, link to your assignment folder
 
+<iframe src="https://drive.google.com/file/d/1L491YJvXUE3RZB8lotLbQee_Y0Gy_1nV/view?usp=sharing" width="560" height="420"></iframe>
 
 
 ## UX Storytelling
