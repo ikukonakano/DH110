@@ -33,9 +33,12 @@ Below are images of the components I created as well as the overall wireflow. Th
 
 ### The process
 
-Here is a link to my [cognitive walkthrough survey](https://docs.google.com/forms/d/e/1FAIpQLSdy_9Cg3VQ-1iQoYRd2b1rSWAE2TJiLzYCdv7RYGPSXo8LrcA/viewform?usp=sharing) and [data](https://docs.google.com/spreadsheets/d/1Wt6WjFowZKrOqBCE38JoL4DOOtFUNv9BlrJLUR_4b_8/edit?usp=sharing). This was based off [the professor's cognitive walkthrough survey](https://docs.google.com/forms/d/e/1FAIpQLScqsfs4MN6LgdE-k8MHP_6bLJD7Xf0Gaou68dTnNQ7GQczfFQ/viewform). This walkthrough took a total of 21 minutes.
+Here is a link to my [cognitive walkthrough survey](https://docs.google.com/forms/d/e/1FAIpQLSdy_9Cg3VQ-1iQoYRd2b1rSWAE2TJiLzYCdv7RYGPSXo8LrcA/viewform?usp=sharing) and [data](https://docs.google.com/spreadsheets/d/1Wt6WjFowZKrOqBCE38JoL4DOOtFUNv9BlrJLUR_4b_8/edit?usp=sharing). This was based off [the professor's cognitive walkthrough survey](https://docs.google.com/forms/d/e/1FAIpQLScqsfs4MN6LgdE-k8MHP_6bLJD7Xf0Gaou68dTnNQ7GQczfFQ/viewform). 
 
-I did a cognitive walkthrough and test with my older sister. She did not want to be recorded by filled out the survey and included comments in the prototype using my computer.
+**My first walkthrough** took a total of 21 minutes. I did a cognitive walkthrough and test with my older sister. She did not want to be recorded by filled out the survey and included comments in the prototype using my computer.
+
+
+**My second and final walkthrough** took a total of 11 minutes. I did this with a friend of my who lives in San Diego and San Fransisco, both similar cities in California to Los Angeles. [Here](https://drive.google.com/file/d/1s1uaAeHOiY-6_uKbsBDhgu3on8yA3qkU/view?usp=sharing) is the recording my this walkthrough.
 
 ### Findings
 
