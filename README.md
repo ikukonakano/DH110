@@ -145,13 +145,14 @@ This was my first iteration of the high-fidelity prototype. This requires user t
 
 The insights, suggestions, and feedback are reflected in the revised high fidelity prototype below.
 
-### First User Testing: Impression Test & Cognitive Walkthrough
+### Impression Test & Cognitive Walkthrough
 
-I conducted an impression test and a cognitive walkthrough of to get a better understanding of what my audience would and would not like. Here is a link to my [impression test & cognitive walkthrough survey](https://docs.google.com/forms/d/e/1FAIpQLSdy_9Cg3VQ-1iQoYRd2b1rSWAE2TJiLzYCdv7RYGPSXo8LrcA/viewform?usp=sharing) and [data](https://docs.google.com/spreadsheets/d/1Wt6WjFowZKrOqBCE38JoL4DOOtFUNv9BlrJLUR_4b_8/edit?usp=sharing). 
+I conducted an impression test and a cognitive walkthrough of to get a better understanding of what my audience would and would not like.
+I conducted TWO impression tests and cognitive walkthroughs. Here is a link to my [impression test & cognitive walkthrough survey](https://docs.google.com/forms/d/e/1FAIpQLSdy_9Cg3VQ-1iQoYRd2b1rSWAE2TJiLzYCdv7RYGPSXo8LrcA/viewform?usp=sharing) and [data](https://docs.google.com/spreadsheets/d/1Wt6WjFowZKrOqBCE38JoL4DOOtFUNv9BlrJLUR_4b_8/edit?usp=sharing). 
 
-[Here](https://drive.google.com/file/d/1s1uaAeHOiY-6_uKbsBDhgu3on8yA3qkU/view?usp=sharing) is the recording of my final user testing.
+My first participant did not want to be recorded; [here](https://drive.google.com/file/d/1s1uaAeHOiY-6_uKbsBDhgu3on8yA3qkU/view?usp=sharing) is the recording of my second user testing.
 
-Key findings from my first & new/final user testing
+Key findings from my first & second user testing
 * consistent titles and formatting 
 * removing some instances of smart animation and changing into dissolve (ex: share/find preview pages to content pages)
 * checking for correct content (making sure the question in step 3 of task 2 is not repeating)
