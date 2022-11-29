@@ -1,40 +1,27 @@
-<head>
-   <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
- 
-</head>
-
 # Project Title: Food Family
 
 **UX Project by Ikuko Nakano**
 
-<div>
-
-  <!-- Nav tabs -->
-  <ul class="nav navbar-nav" >
-   <li class="active"><a href="#introduction">Introduction</a></li>
-   <li ><a href="#design-statement">Design Statement</a></li>
-   <li ><a href="#competitor-analysis">Competitor Analysis</a></li>
-   <li ><a href="#user-testing-contextual-inquiry">User Testing: Contextual Inquiry</a></li>
-   <li ><a href="#ux-storytelling">UX Storytelling</a></li>
-   <li ><a href="#wireframe-and-graphic-design-element-variations">Wireframe and Graphic Design Element Variation</a></li>
-   <li ><a href="#low-fidelity-prototype">Low Fidelity Prototype</a></li>
-   <li ><a href="#high-fidelity-prototype">High Fidelity Prototype</a></li>
-   <li ><a href="#revision-history">Revision History</a></li>
-   <li><a href="#pitch-video">Pitch Video</a></li>
-   <li><a href="#conclusion">Conclusion</a></li>
-  </ul>
-</div>
+---
 
 
-<button type="button" class="btn btn-default" aria-label="Right Align">
-  <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
-</button>
+<div><p align="center">Table of Contents</p></div>
+<li class="active"><a href="#introduction">Introduction</a></li>
+<li ><a href="#design-statement">Design Statement</a></li>
+<li ><a href="#competitor-analysis">Competitor Analysis</a></li>
+<li ><a href="#user-testing-contextual-inquiry">User Testing: Contextual Inquiry</a></li>
+<li ><a href="#ux-storytelling">UX Storytelling</a></li>
+<li ><a href="#wireframe-and-graphic-design-element-variations">Wireframe and Graphic Design Element Variation</a></li>
+<li ><a href="#low-fidelity-prototype">Low Fidelity Prototype</a></li>
+<li ><a href="#high-fidelity-prototype">High Fidelity Prototype</a></li>
+<li ><a href="#revision-history">Revision History</a></li>
+<li><a href="#pitch-video">Pitch Video</a></li>
+<li><a href="#conclusion">Conclusion</a></li>
 
 <a href="#introduction">  <h2 class="lead">Introduction</h2> </a>
 This project was developed as a part of the course, Digital Huamities 110: User Experience Design, offered in Fall 2022 at UCLA. It was taught by [Sookie Kim, a visiting lecturer](https://dh.ucla.edu/faculty/). This project was aimed at contributing to the second [UN Sustainable Development Goal](https://sdgs.un.org/goals) of achieving [Zero Hunger](https://sdgs.un.org/goals/goal2). Inspired by a common climate action phrase of "thinking globally, acting locally," this project aims to support Zero Hunger by sharing, finding, and learning about food resources in the Los Angeles region. Personally, I am motivated by my academic, professional, and experiential background with hunger.
 
-<a href="#design-statement"> <h2 class="lead">Design Statement</h2> </a>
+## Design Statement
 
 What is the issue and Why do you think it is important to resolve that issue by your project? 
 
