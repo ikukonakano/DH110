@@ -181,6 +181,8 @@ Please save the above image for a fullview of the wireflow.
 
 ## Pitch Video
 
+**Find my pitch video [here](https://drive.google.com/file/d/1s1uaAeHOiY-6_uKbsBDhgu3on8yA3qkU/view?usp=share_link)**
+
 ## Conclusion
 This was a very interesting and informative experience.
 
