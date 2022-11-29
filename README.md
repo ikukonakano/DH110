@@ -20,11 +20,11 @@
 
 ## Introduction
 
-This project was developed as a part of the course, Digital Huamities 110: User Experience Design, offered in Fall 2022 at UCLA. It was taught by [Sookie Kim, a visiting lecturer](https://dh.ucla.edu/faculty/). This project was developed with the aim of supporting the second [UN Sustainable Development Goal](https://sdgs.un.org/goals) of achieving [Zero Hunger](https://sdgs.un.org/goals/goal2). Inspired by a common climate action phrase of "thinking globally, acting locally," this project aims to support Zero Hunger by sharing, finding, and learning about food resources in the Los Angeles region. Personally, I am motivated by my academic, professional, and experiential background with hunger.
+This project was developed as a part of the course, Digital Humanities 110: User Experience Design, offered in Fall 2022 at UCLA. It was taught by [Sookie Kim, a visiting lecturer](https://dh.ucla.edu/faculty/). This project was developed with the aim of supporting the second [UN Sustainable Development Goal](https://sdgs.un.org/goals) of achieving [Zero Hunger](https://sdgs.un.org/goals/goal2). Inspired by a common climate action phrase of "thinking globally, acting locally," this project aims to support Zero Hunger by sharing, finding, and learning about food resources in the Los Angeles region. Personally, I am motivated by my academic, professional, and experiential background with hunger.
 
 ## Design Statement
 
-**Through this project, I hope to connect the population of people who are in need of food resources with those who are able to provide them, as well as educate individual who are curious about the issue at large.**
+**Through this project, I hope to connect the population of people who are in need of food resources with those who are able to provide them, as well as educate individuals who are curious about the issue at large.**
 
 Food is a basic necessity. In the same way clean water, clothing, and shelter are all basic to human survival, food is critical. However, hunger continues to be and is becoming an increasingly large issue. This project aims to contribute to the solution of global hunger by locally alleviating the hunger crisis in Los Angeles. This is done through the website but being a simple, intuitive, clear platform to: 1) find, 2) share, and 3) learn about food resources.
 
@@ -34,7 +34,7 @@ Food is a basic necessity. In the same way clean water, clothing, and shelter ar
 ### Heuristic Evaluation
 I conducted heuristic analysis on two competitors: the Slack Workspace for UCLA Food Studies minor students (a space for students to share resources) and the Los Angeles Food Policy Council website (a nonprofit who offer opportunities for learning about the food system at large).
 
-Slack gives individuals a means of sharing and finding resources but the space can be a bit overwhelming and cluttered, with no standardized way of sharing information. The Los Angeles Food Policy website provides good opportunity and visual appeal but is, again, cluttered and does not use common grouping terminology (i.e. title headers) which may users lost on where to navigate to.
+Slack gives individuals a means of sharing and finding resources but the space can be a bit overwhelming and cluttered, with no standardized way of sharing information. The Los Angeles Food Policy website provides good opportunity and visual appeal but is, again, cluttered and does not use common grouping terminology (i.e. title headers) which may leave users lost on where to navigate to.
 
 In terms of solutions: 1) Shared resources should include specific mandatory information, and 2) information should be uniform in aesthetic and in grouping terminology.
 
@@ -71,7 +71,7 @@ I thought about the audience of my platform by creating personas and their assoc
 
 I created 2 personas: Jacob Green - the curious and hungry student, Claudia Frasier - the engaging and networking professor.
 
-Below are an example of what I created for Jacob.
+Below is an example of what I created for Jacob.
 |Persona|Empathy Map|
 |---|---|
 |<img width="590" alt="Screen Shot 2022-11-29 at 1 21 48" src="https://user-images.githubusercontent.com/56706104/204489862-630ef641-45a7-4af7-86a0-cce45503a855.png">|<img width="590" alt="Screen Shot 2022-11-29 at 1 21 27" src="https://user-images.githubusercontent.com/56706104/204489880-f3a79572-bc29-43b8-9ba1-55ca712b12b2.png">|
@@ -86,7 +86,7 @@ Using these personas and empathy maps, I was able to put myself into the shoes o
 
 After getting into the perspective of potential users, I then began to draft the wireframes of my prototype. This allowed me to generate fast designs to test on users without investing too much time into details of the prototype (e.g. colors and shapes).
 
-I developed my wireframe based off of the core functionality I hoped for this program to acheive: sharing, finding, and learning.
+I developed my wireframe based off of the core functionality I hoped for this program to achieve: sharing, finding, and learning.
 
 Below are examples of wireframes I developed:
 
@@ -102,9 +102,9 @@ Below is the Low Fidelity wireflow, meant to give an overarching view of the pro
 
 ![LowFidWireflow](https://user-images.githubusercontent.com/56706104/204502100-704dbad8-8ae3-4cd0-bfd9-cd32830c3385.jpeg)
 
-Please save the above image for a fullview of the wireflow.
+Please save the above image for a full view of the wireflow.
 
-I conducted user testing with the rudimentary wireframe and wireflow of the low fidelity prototype and I got feedback about the design, and certain key features that I would make sure to properly design or remove due to complexity. This included assign asterisks on required fields, and changing the criteria question into an short-paragraph section instead of an additive table.
+I conducted user testing with the rudimentary wireframe and wireflow of the low fidelity prototype and I got feedback about the design, and certain key features that I would make sure to properly design or remove due to complexity. This included assigning asterisks on required fields, and changing the criteria question into an short-paragraph section instead of an additive table.
 
 **Find the full low-fidelity prototype and testing [here](https://ikukonakano.github.io/DH110/Assignment05/)**
 
@@ -120,7 +120,7 @@ The graphic design elements variations were designed with various ideas in mind,
 
 ## High Fidelity Prototype
 
-Using feedback from the low fidelity prototype testing as well as the graphic design elements I decided on, I began the high fidelity prototype of this project focusing on two feature: sharing  and using a map to find resources.
+Using feedback from the low fidelity prototype testing as well as the graphic design elements I decided on, I began the high fidelity prototype of this project focusing on two features: sharing  and using a map to find resources.
 
 Below are examples of high fidelity prototype of the same pages above
 |Home Page|Share Page|
@@ -135,11 +135,11 @@ Below is an image of the High Fidelity wireflow, meant to give an overarching vi
 
 <img width="720" alt="Screen Shot 2022-11-29 at 9 58 21" src="https://user-images.githubusercontent.com/56706104/204607130-b8f371df-0fad-4572-b0b5-dfd2c59a6b68.png">
 
-Please save the above image for a fullview of the wireflow.
+Please save the above image for a full view of the wireflow.
 
 This was my first iteration of the high-fidelity prototype. This requires user testing and revision to ensure it's making the proper impact.
 
-**Find the full, FIRST high-fidelity protoype [here](https://www.figma.com/community/file/1179468191852016179)**
+**Find the full, FIRST high-fidelity prototype [here](https://www.figma.com/community/file/1179468191852016179)**
 
 ## Revision History
 
@@ -147,7 +147,7 @@ The insights, suggestions, and feedback are reflected in the revised high fideli
 
 ### Impression Test & Cognitive Walkthrough
 
-I conducted an impression test and a cognitive walkthrough of to get a better understanding of what my audience would and would not like.
+I conducted an impression test and a cognitive walkthrough to get a better understanding of what my audience would and would not like.
 I conducted TWO impression tests and cognitive walkthroughs. Here is a link to my [impression test & cognitive walkthrough survey](https://docs.google.com/forms/d/e/1FAIpQLSdy_9Cg3VQ-1iQoYRd2b1rSWAE2TJiLzYCdv7RYGPSXo8LrcA/viewform?usp=sharing) and [data](https://docs.google.com/spreadsheets/d/1Wt6WjFowZKrOqBCE38JoL4DOOtFUNv9BlrJLUR_4b_8/edit?usp=sharing). 
 
 My first participant did not want to be recorded; [here](https://drive.google.com/file/d/1s1uaAeHOiY-6_uKbsBDhgu3on8yA3qkU/view?usp=sharing) is the recording of my second user testing.
@@ -164,18 +164,18 @@ Key findings from my first & second user testing
 
 ### Revisions
 
-Based off of these feedbacks, I created a revised High Fidelity Prototype.
+Based on these feedbacks, I created a revised High Fidelity Prototype.
 These revision included:
 * the feedback from above
-* the addition of the "learn" task that gives users more information on hunger as sustainability issue. 
+* the addition of the "learn" task that gives users more information on hunger as a sustainability issue. 
 
-**Find the full, FINALIZED high-fidelity protoype [here](https://www.figma.com/community/file/1179485618889678407)**
+**Find the full, FINALIZED high-fidelity prototype [here](https://www.figma.com/community/file/1179485618889678407)**
 
 Below is the High Fidelity wireflow, meant to give an overarching view of the prototype (not give a detailed look at any one page):
 
 <img width="549" alt="Screen Shot 2022-11-29 at 10 18 50" src="https://user-images.githubusercontent.com/56706104/204632030-53a4c7ab-0617-46c5-a59c-82679bed5408.png">
 
-Please save the above image for a fullview of the wireflow.
+Please save the above image for a full view of the wireflow.
 
 **Find the full revision history [here](https://ikukonakano.github.io/DH110/Assignment07/)**
 
@@ -188,6 +188,6 @@ This was a very interesting and informative experience.
 
 I enjoyed gaining tools and knowledge that would allow me to verbalize and articulate the usability of a platform. Not only this, but this course and project gave me an understanding of how to fix these problems and UX standards that should be upheld. Taking this course reinforced the importance of user experience design for accessibility purposes. It was enjoyable and very fulfilling to play with colors, do the color contract checks, and gain a broader understanding of what it means to be user friendly.
 
-I found difficulty in two main things: 1) learning platforms such as Github and Figma as we used them throughout the course, and 2) finding user participants for my study. I have never used either of these platforms and so I simultaneously had to learn them while learning the content and deploying finished assignments. As for finding participants, since I am student and my network is primarily made up of students, it was difficult finding folks who fit my target audience.
+I found difficulty in two main things: 1) learning platforms such as Github and Figma as we used them throughout the course, and 2) finding user participants for my study. I have never used either of these platforms and so I simultaneously had to learn them while learning the content and deploying finished assignments. As for finding participants, since I am a student and my network is primarily made up of students, it was difficult finding folks who fit my target audience.
 
 Moving forward, I would like to spend more time learning how to recruit participants for these tests in a way that allows for designers to get the most accurate grasp of their target audience. Additionally, now that I am a bit more familiar with Github and Figma, I would like to spend more time on the content of my project and getting a chance to apply feedback from professionals and users.
