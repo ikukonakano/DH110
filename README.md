@@ -40,7 +40,7 @@ In terms of solutions: 1) Shared resources should include specific mandatory inf
 
 **Find the full heuristic evaluation [here](https://ikukonakano.github.io/DH110/Assignment01/)**
 
-<iframe src="goodfoodla.org/" width="560" height="420"></iframe>
+<iframe src="goodfoodla.org/" width="560"></iframe>
 
 ### Usability Testing
 I conducted a pilot usability testing on the Los Angeles Food Policy Council to support my heuristic analysis and gain further insight about improvements that could be made on resource sharing platforms.
@@ -53,7 +53,7 @@ These tasks confirmed my evaluation that the website is convoluted and cumbersom
 
 **Find the full usability testing [here](https://ikukonakano.github.io/DH110/Assignment02/)**
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSena5TWgOGJQpX80mi8sKzGVLoV3-ehvWqyxHmK7awQeh0ghw/viewform?usp=sf_link" width="560" height="420"></iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSena5TWgOGJQpX80mi8sKzGVLoV3-ehvWqyxHmK7awQeh0ghw/viewform?usp=sf_link" width="560"></iframe>
 
 
 ## User Testing: Contextual Inquiry
@@ -68,7 +68,7 @@ With these insights in mind, I was able to begin thinking about who the redesign
 **Find the full usability testing [here](https://ikukonakano.github.io/DH110/Assignment02/)**
 
 
-<iframe src="https://drive.google.com/file/d/1L491YJvXUE3RZB8lotLbQee_Y0Gy_1nV/view?usp=sharing" width="560" height="420"></iframe>
+<iframe src="https://drive.google.com/file/d/1L491YJvXUE3RZB8lotLbQee_Y0Gy_1nV/view?usp=sharing" width="560"></iframe>
 
 
 ## UX Storytelling
