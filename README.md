@@ -11,8 +11,8 @@
 <li ><a href="#competitor-analysis">Competitor Analysis</a></li>
 <li ><a href="#user-testing-contextual-inquiry">User Testing: Contextual Inquiry</a></li>
 <li ><a href="#ux-storytelling">UX Storytelling</a></li>
-<li ><a href="#wireframe-and-graphic-design-element-variations">Wireframe and Graphic Design Element Variation</a></li>
-<li ><a href="#low-fidelity-prototype">Low Fidelity Prototype</a></li>
+<li ><a href="#wireframe-and-low-fidelity-prototype">Wireframe and Low Fidelity Prototype</a></li>
+<li ><a href="#graphic-design-element-variations">Graphic Design Element Variations</a></li>
 <li ><a href="#high-fidelity-prototype">High Fidelity Prototype</a></li>
 <li ><a href="#revision-history">Revision History</a></li>
 <li><a href="#pitch-video">Pitch Video</a></li>
@@ -80,7 +80,7 @@ Using these personas and empathy maps, I was able to put myself into the shoes o
 
 **Find the full UX storytelling [here](https://ikukonakano.github.io/DH110/Assignment04/)**
 
-## Wireframe and Graphic Design Element Variations
+## Wireframe and Low Fidelity Prototype
 
 [Note: some of my tasks and information was edited based on feedback from the professor so the past sections may reflect different research questions and objectives than the ones at hand.]
 
@@ -98,14 +98,6 @@ Below are examples of wireframes I developed:
 
 **Find the full low-fidelity wireframe [here](https://www.figma.com/community/file/1179468258560227892)**
 
-The graphic design elements variations were designed with various ideas in mind, including (but not limited to) Gestalt's theory of grouping visual elements, ensuring the color contrasts meet AAA standard, nad variation of typography and shapes.
-
-<img width="924" alt="TypeVar" src="https://user-images.githubusercontent.com/56706104/204586481-bcc4ef56-e6ec-4c3f-8921-7dd017b98515.png">
-
-**Find the full wireframe and graphic design element variations [here](https://ikukonakano.github.io/DH110/Assignment06/)**
-
-## Low Fidelity Prototype
-
 Below is the Low Fidelity wireflow, meant to give an overarching view of the prototype (not give a detailed look at any one page):
 
 ![LowFidWireflow](https://user-images.githubusercontent.com/56706104/204502100-704dbad8-8ae3-4cd0-bfd9-cd32830c3385.jpeg)
@@ -115,6 +107,16 @@ Please click the above image for a fullview of the wireflow.
 I conducted user testing with the rudimentary wireframe and wireflow of the low fidelity prototype and I got feedback about the design, and certain key features that I would make sure to properly design or remove due to complexity. This included assign asterisks on required fields, and changing the criteria question into an short-paragraph section instead of an additive table.
 
 **Find the full low-fidelity prototype and testing [here](https://ikukonakano.github.io/DH110/Assignment05/)**
+
+## Graphic Design Element Variations
+
+The graphic design elements variations were designed with various ideas in mind, including (but not limited to) Gestalt's theory of grouping visual elements, layout testing (first image below) ensuring the color contrasts meet AAA standard, and variation of typography and shapes (second image below).
+
+<img width="560" alt="Screen Shot 2022-11-29 at 10 50 09" src="https://user-images.githubusercontent.com/56706104/204619712-5fc9bd81-1553-41f8-9d4a-27bbfeb1802d.png">
+
+<img width="560" alt="TypeVar" src="https://user-images.githubusercontent.com/56706104/204586481-bcc4ef56-e6ec-4c3f-8921-7dd017b98515.png">
+
+**Find the full graphic design element variations [here](https://ikukonakano.github.io/DH110/Assignment06/)**
 
 ## High Fidelity Prototype
 
@@ -157,7 +159,7 @@ Key findings from my first & new/final user testing
 * making sure the dropdown in step 2 of share task appears in front
 * making the "home," "find" and "share" menu navigate to the correct preview pages
 
-**Find the full impression test & cognitive walkthrough[here](https://ikukonakano.github.io/DH110/Assignment07/)**
+**Find the full impression test & cognitive walkthrough [here](https://ikukonakano.github.io/DH110/Assignment07/)**
 
 Based off of these feedbacks, I created a revised High Fidelity Prototype.
 
