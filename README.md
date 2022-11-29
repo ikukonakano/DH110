@@ -102,7 +102,7 @@ Below is the Low Fidelity wireflow, meant to give an overarching view of the pro
 
 ![LowFidWireflow](https://user-images.githubusercontent.com/56706104/204502100-704dbad8-8ae3-4cd0-bfd9-cd32830c3385.jpeg)
 
-Please click the above image for a fullview of the wireflow.
+Please save the above image for a fullview of the wireflow.
 
 I conducted user testing with the rudimentary wireframe and wireflow of the low fidelity prototype and I got feedback about the design, and certain key features that I would make sure to properly design or remove due to complexity. This included assign asterisks on required fields, and changing the criteria question into an short-paragraph section instead of an additive table.
 
@@ -135,7 +135,7 @@ Below is an image of the High Fidelity wireflow, meant to give an overarching vi
 
 <img width="720" alt="Screen Shot 2022-11-29 at 9 58 21" src="https://user-images.githubusercontent.com/56706104/204607130-b8f371df-0fad-4572-b0b5-dfd2c59a6b68.png">
 
-Please click the above image for a fullview of the wireflow.
+Please save the above image for a fullview of the wireflow.
 
 This was my first iteration of the high-fidelity prototype. This requires user testing and revision to ensure it's making the proper impact.
 
@@ -176,7 +176,7 @@ Below is the High Fidelity wireflow, meant to give an overarching view of the pr
 <<img width="549" alt="Screen Shot 2022-11-29 at 10 18 50" src="https://user-images.githubusercontent.com/56706104/204632030-53a4c7ab-0617-46c5-a59c-82679bed5408.png">
 >
 
-Please click the above image for a fullview of the wireflow.
+Please save the above image for a fullview of the wireflow.
 
 **Find the full revision history [here](https://ikukonakano.github.io/DH110/Assignment07/)**
 
