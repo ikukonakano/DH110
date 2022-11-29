@@ -1,6 +1,7 @@
+   <head>
    <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-
+</head>
 
 # Project Title: Food Family
 
@@ -24,17 +25,16 @@
   <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
 </button>
 
-<a href="#introduction"> ## Introductiom </a>
-|---|
-|This project was developed as a part of the course, Digital Huamities 110: User Experience Design, offered in Fall 2022 at UCLA. It was taught by [Sookie Kim, a visiting lecturer](https://dh.ucla.edu/faculty/). This project was aimed at contributing to the second [UN Sustainable Development Goal](https://sdgs.un.org/goals) of achieving [Zero Hunger](https://sdgs.un.org/goals/goal2). Inspired by a common climate action phrase of "thinking globally, acting locally," this project aims to support Zero Hunger by sharing, finding, and learning about food resources in the Los Angeles region. Personally, I am motivated by my academic, professional, and experiential background with hunger.|
+<a href="#introduction">  <h2 class="lead">Introduction</h2> </a>
+This project was developed as a part of the course, Digital Huamities 110: User Experience Design, offered in Fall 2022 at UCLA. It was taught by [Sookie Kim, a visiting lecturer](https://dh.ucla.edu/faculty/). This project was aimed at contributing to the second [UN Sustainable Development Goal](https://sdgs.un.org/goals) of achieving [Zero Hunger](https://sdgs.un.org/goals/goal2). Inspired by a common climate action phrase of "thinking globally, acting locally," this project aims to support Zero Hunger by sharing, finding, and learning about food resources in the Los Angeles region. Personally, I am motivated by my academic, professional, and experiential background with hunger.
 
-<a href="#design-statement"> ## Design Statement </a>
+<a href="#design-statement"> <h2 class="lead">Design Statement</h2> </a>
 
 What is the issue and Why do you think it is important to resolve that issue by your project? 
 
 |The main issue identified through this project 
 
-<a href="#competitor-analysis"> ## Competitor analysis </a>
+<a href="#competitor-analysis"> <h2 class="lead">Competitor Analysis</h2> </a>
 
 <table border="0">
  <tr>
@@ -56,7 +56,7 @@ Summary and link to the heuristics and usability testing of the *existing* produ
 
 
 
-<a href="#user-testing"> ## User Testing: Contextual Inquiry </a>
+<a href="#user-testing"> <h2 class="lead">User Testing: Contextual Inquiry</h2> </a>
 
 [contextual inquiry, assignment03]:
 
@@ -64,7 +64,7 @@ Summary text and image, link to your assignment folder
 
 
 
-<a href="#ux-storytelling"> ## UX Storytelling </a>
+<a href="#ux-storytelling"> <h2 class="lead">UX Storytelling</h2> </a>
 
 [persona+scenario, assignment04]
 
@@ -72,29 +72,27 @@ Summary text and image, link to your assignment folder
 
 
 
-<a href="#wireframe"> ## Wireframe and Graph Design Element Variation </a>
+<a href="#wireframe"> <h2 class="lead">Wireframe and Graph Design Element Variation</h2> </a>
 
 Summary text and image, link to your assignment folder
 
-
-
-<a href="#low-fidelity-prototype"> ## Low Fidelity Prototype </a>
+<a href="#low-fidelity-prototype">  <h2 class="lead">Low Fidelity Prototype</h2>  </a>
 
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
 
 
-<a href="#high-fidelity-prototype"> ## High Fidelity Prototype </a>
+<a href="#high-fidelity-prototype">  <h2 class="lead">High Fidelity Prototype</h2>  </a>
 
 Summary statement and link to or an embedded prototype
 
-<a href="#revision-history"> ## Revision History </a>
+<a href="#revision-history"> <h2 class="lead">Revision History</h2> </a>
 
 Including cognitive walkthrough; impression test, accessibility audit, NEW usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
-<a href="#pitch-video"> ## Pitch Video </a>
+<a href="#pitch-video">  <h2 class="lead">Pitch Video</h2>  </a>
 
 introduction, design process about research-design-evaluation, walkthrough of the prototype, and what you learned  
 
-<a href="#conclusion"> ## Conclusion </a>
+<a href="#conclusion">  <h2 class="lead">Conclusion</h2>  </a>
 
 evaluation and reflection
