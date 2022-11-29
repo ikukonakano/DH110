@@ -1,15 +1,17 @@
    <head>
    <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-    bootstrap.js
-   
+ 
 </head>
 
 # Project Title: Food Family
 
 **UX Project by Ikuko Nakano**
 
-<ul class="nav nav-tabs">
+<div>
+
+  <!-- Nav tabs -->
+  <ul class="nav nav-tabs" role="tablist">
   <li role="presentation" class="active"><a href="#introduction">Introduction</a></li>
   <li role="presentation"><a href="#design-statement">Design Statement</a></li>
   <li role="presentation"><a href="#competitor-analysis">Competitor Analysis</a></li>
@@ -21,6 +23,26 @@
   <li role="presentation"><a href="#revision-history">Revision History</a></li>
   <li role="presentation"><a href="#pitch-video">Pitch Video</a></li>
   <li role="presentation"><a href="#conclusion">Conclusion</a></li>
+  </ul>
+
+  <!-- Tab panes -->
+  <div class="tab-content">
+    <div role="tabpanel" class="tab-pane active" id="introduction">...</div>
+    <div role="tabpanel" class="tab-pane" id="design-statement">...</div>
+    <div role="tabpanel" class="tab-pane" id="competitor-analysis">...</div>
+    <div role="tabpanel" class="tab-pane" id="user-testing">...</div>
+    <div role="tabpanel" class="tab-pane" id="ux-storytelling">...</div>
+    <div role="tabpanel" class="tab-pane" id="wireframe">...</div>
+    <div role="tabpanel" class="tab-pane" id="low-fidelity-prototype">...</div>
+    <div role="tabpanel" class="tab-pane" id="high-fidelity-prototype">...</div>
+    <div role="tabpanel" class="tab-pane" id="revision-history">...</div>
+    <div role="tabpanel" class="tab-pane" id="pitch-video">...</div>
+    <div role="tabpanel" class="tab-pane" id="conclusion">...</div>
+
+  </div>
+  
+
+</div>
 
 </div>
 <button type="button" class="btn btn-default" aria-label="Right Align">
