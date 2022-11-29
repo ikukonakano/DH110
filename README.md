@@ -1,4 +1,4 @@
-# Project Title: Food Family
+# Food Family
 
 **UX Project by Ikuko Nakano**
 
