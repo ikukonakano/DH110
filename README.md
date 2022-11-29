@@ -164,7 +164,7 @@ Key findings from my first & new/final user testing
 ### Revisions
 
 Based off of these feedbacks, I created a revised High Fidelity Prototype.
-These revision included
+These revision included:
 * the feedback from above
 * the addition of the "learn" task that gives users more information on hunger as sustainability issue. 
 
@@ -172,8 +172,7 @@ These revision included
 
 Below is the High Fidelity wireflow, meant to give an overarching view of the prototype (not give a detailed look at any one page):
 
-<<img width="549" alt="Screen Shot 2022-11-29 at 10 18 50" src="https://user-images.githubusercontent.com/56706104/204632030-53a4c7ab-0617-46c5-a59c-82679bed5408.png">
->
+<img width="549" alt="Screen Shot 2022-11-29 at 10 18 50" src="https://user-images.githubusercontent.com/56706104/204632030-53a4c7ab-0617-46c5-a59c-82679bed5408.png">
 
 Please save the above image for a fullview of the wireflow.
 
