@@ -139,7 +139,6 @@ Please save the above image for a fullview of the wireflow.
 
 This was my first iteration of the high-fidelity prototype. This requires user testing and revision to ensure it's making the proper impact.
 
-
 **Find the full high-fidelity protoype [here](https://www.figma.com/community/file/1179468191852016179)**
 
 ## Revision History
