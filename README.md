@@ -29,36 +29,42 @@ What is the issue and Why do you think it is important to resolve that issue by 
 
 ## Competitor Analysis
 
-|Heuristic Evaluation|
-|--------------------|
-|I conducted heuristic analysis on two competitors: the Slack Workspace for UCLA Food Studies minor students (a space for students to share resources) and the Los Angeles Food Policy Council website (a nonprofit who offer opportunities for learning about the food system at large).<br><br> Slack gives individuals a means of sharing and finding resources but the space can be a bit overwhelming and cluttered, with no standardized way of sharing information. The Los Angeles Food Policy website provides good opportunity and visual appeal but is, again, cluttered and does not use common grouping terminology (i.e. title headers) which may users lost on where to navigate to. <br><br> In terms of solutions: 1) Shared resources should include specific mandatory information, and 2) information should be uniform in aesthetic and in grouping terminology. <br><br> **Find the full heuristic evaluation [here](https://ikukonakano.github.io/DH110/Assignment01/)**|
+### Heuristic Evaluation
+I conducted heuristic analysis on two competitors: the Slack Workspace for UCLA Food Studies minor students (a space for students to share resources) and the Los Angeles Food Policy Council website (a nonprofit who offer opportunities for learning about the food system at large).
+
+Slack gives individuals a means of sharing and finding resources but the space can be a bit overwhelming and cluttered, with no standardized way of sharing information. The Los Angeles Food Policy website provides good opportunity and visual appeal but is, again, cluttered and does not use common grouping terminology (i.e. title headers) which may users lost on where to navigate to.
+
+In terms of solutions: 1) Shared resources should include specific mandatory information, and 2) information should be uniform in aesthetic and in grouping terminology.
+
+**Find the full heuristic evaluation [here](https://ikukonakano.github.io/DH110/Assignment01/)**|
+
 <img width="500" alt="194009293-be77c744-ba50-4b03-a163-f5c4255fdd95" src="https://user-images.githubusercontent.com/56706104/204462191-cedcea93-3e11-4628-9fab-ce241d5bcdaf.png">
 
-<iframe
-        src="goodfoodla.org"
-        width="700"
-        height="520"
-        frameborder="0"
-        marginheight="0"
-        marginwidth="0"
-></iframe>
+<iframe src="goodfoodla.org/" width="560" height="420"></iframe>
 
+### Usability Testing
+I conducted a pilot usability testing on the Los Angeles Food Policy Council to support my heuristic analysis and gain further insight about improvements that could be made on resource sharing platforms.
 
-|Usability Testing|
-|--------------------|
-I conducted a pilot usability testing on the Los Angeles Food Policy Council to support my heuristic analysis and gain further insight about improvements that could be made on resource sharing platforms. <br><br> I designed tasks that include learning about the organization and searching for resources and opportunities for the public to engage to get a better understanding of how the webpage’s organization affects the information accessibility. <br><br> These tasks confirmed my evaluation that the website is convoluted and cumbersome. This allowed me to begin understanding the perspective of users. To continue this study of users, I next performed a contextual inquiry. <br><br> **Find the full usability testing [here](https://ikukonakano.github.io/DH110/Assignment02/)**|
-<iframe
-        src="https://docs.google.com/forms/d/e/1FAIpQLSena5TWgOGJQpX80mi8sKzGVLoV3-ehvWqyxHmK7awQeh0ghw/viewform?embedded=true"
-        width="700"
-        height="520"
-        frameborder="0"
-        marginheight="0"
-        marginwidth="0"
-></iframe>
+I designed tasks that include learning about the organization and searching for resources and opportunities for the public to engage to get a better understanding of how the webpage’s organization affects the information accessibility.
+
+These tasks confirmed my evaluation that the website is convoluted and cumbersome. This allowed me to begin understanding the perspective of users. To continue this study of users, I next performed a contextual inquiry.
+
+**Find the full usability testing [here](https://ikukonakano.github.io/DH110/Assignment02/)**
+
+<img width="500" alt="Screen Shot 2022-11-28 at 22 33 56" src="https://user-images.githubusercontent.com/56706104/204464573-70a2b833-1e14-49fd-bea1-539d7d327e25.png">
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSena5TWgOGJQpX80mi8sKzGVLoV3-ehvWqyxHmK7awQeh0ghw/viewform?usp=sf_link" width="560" height="420"></iframe>
+
 
 ## User Testing: Contextual Inquiry
 
-[contextual inquiry, assignment03]:
+The contextual inquiry I conducted allowed me to further understand users’ motivations for using platforms for learning, sharing and finding food resources. I interviewed an individual who was on the Slack workspace mentioned in the heuristic analysis. 
+
+What I found was that sharing and finding resources within even a centralized community such as a college campus was not easy to come by. The interviewee cites a lack of centralization, a lack of simplicity, and a lack of user autonomy.
+
+With these insights in mind, I was able to begin thinking about who the redesigned platform would serve.
+
+**Find the full usability testing [here](https://ikukonakano.github.io/DH110/Assignment02/)**
 
 Summary text and image, link to your assignment folder
 
