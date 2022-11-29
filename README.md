@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html lang="en-US">
- 
 <head>
    <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
@@ -14,40 +11,22 @@
 <div>
 
   <!-- Nav tabs -->
-  <ul class="nav nav-tabs" role="tablist">
-  <li role="presentation" class="active"><a href="#introduction">Introduction</a></li>
-  <li role="presentation"><a href="#design-statement">Design Statement</a></li>
-  <li role="presentation"><a href="#competitor-analysis">Competitor Analysis</a></li>
-  <li role="presentation"><a href="#user-testing">User Testing: Contextual Inquiry</a></li>
-  <li role="presentation"><a href="#ux-storytelling">UX Storytelling</a></li>
-  <li role="presentation"><a href="#wireframe">Wireframe and Graph Design Element Variation</a></li>
-  <li role="presentation"><a href="#low-fidelity-prototype">Low Fidelity Prototype</a></li>
-  <li role="presentation"><a href="#high-fidelity-prototype">Hibh Fidelity Prototype</a></li>
-  <li role="presentation"><a href="#revision-history">Revision History</a></li>
-  <li role="presentation"><a href="#pitch-video">Pitch Video</a></li>
-  <li role="presentation"><a href="#conclusion">Conclusion</a></li>
+  <ul class="nav navbar-nav" >
+   <li class="active"><a href="#introduction">Introduction</a></li>
+   <li ><a href="#design-statement">Design Statement</a></li>
+   <li ><a href="#competitor-analysis">Competitor Analysis</a></li>
+   <li ><a href="#user-testing-contextual-inquiry">User Testing: Contextual Inquiry</a></li>
+   <li ><a href="#ux-storytelling">UX Storytelling</a></li>
+   <li ><a href="#wireframe-and-graphic-design-element-variations">Wireframe and Graphic Design Element Variation</a></li>
+   <li ><a href="#low-fidelity-prototype">Low Fidelity Prototype</a></li>
+   <li ><a href="#high-fidelity-prototype">High Fidelity Prototype</a></li>
+   <li ><a href="#revision-history">Revision History</a></li>
+   <li><a href="#pitch-video">Pitch Video</a></li>
+   <li><a href="#conclusion">Conclusion</a></li>
   </ul>
-
-  <!-- Tab panes -->
-  <div class="tab-content">
-    <div role="tabpanel" class="tab-pane active" id="introduction">...</div>
-    <div role="tabpanel" class="tab-pane" id="design-statement">...</div>
-    <div role="tabpanel" class="tab-pane" id="competitor-analysis">...</div>
-    <div role="tabpanel" class="tab-pane" id="user-testing">...</div>
-    <div role="tabpanel" class="tab-pane" id="ux-storytelling">...</div>
-    <div role="tabpanel" class="tab-pane" id="wireframe">...</div>
-    <div role="tabpanel" class="tab-pane" id="low-fidelity-prototype">...</div>
-    <div role="tabpanel" class="tab-pane" id="high-fidelity-prototype">...</div>
-    <div role="tabpanel" class="tab-pane" id="revision-history">...</div>
-    <div role="tabpanel" class="tab-pane" id="pitch-video">...</div>
-    <div role="tabpanel" class="tab-pane" id="conclusion">...</div>
-
-  </div>
-  
-
 </div>
 
-</div>
+
 <button type="button" class="btn btn-default" aria-label="Right Align">
   <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
 </button>
@@ -99,7 +78,7 @@ Summary text and image, link to your assignment folder
 
 
 
-<a href="#wireframe"> <h2 class="lead">Wireframe and Graph Design Element Variation</h2> </a>
+<a href="#wireframe-and-graphic-design-element-variations"> <h2 class="lead">Wireframe and Graphic Design Element Variations</h2> </a>
 
 Summary text and image, link to your assignment folder
 
