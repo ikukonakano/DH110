@@ -5,7 +5,7 @@
 ---
 
 
-<div><p align="center">## Table of Contents</p></div>
+<div><p align="center">Table of Contents</p></div>
 <li class="active"><a href="#introduction">Introduction</a></li>
 <li ><a href="#design-statement">Design Statement</a></li>
 <li ><a href="#competitor-analysis">Competitor Analysis</a></li>
@@ -79,9 +79,11 @@ Using these personas and empathy maps, I was able to put myself into the shoes o
 
 **Find the full UX storytelling [here](https://ikukonakano.github.io/DH110/Assignment04/)**
 
-## Low Fidelity Prototype
+## Wireframe and Graphic Design Element Variations
 
-After getting into the perspective of potential users, I then began to draft a low-fidelity prototype. This allowed me to generate fast designs to test on users without investing too much time into details of the prototype (e.g. colors and shapes).
+After getting into the perspective of potential users, I then began to draft the wireframes of my prototype. This allowed me to generate fast designs to test on users without investing too much time into details of the prototype (e.g. colors and shapes).
+
+I developed my wireframe based off of the core functionality I hoped for this program to acheive: sharing, finding, and learning.
 
 Below are examples of wireframes I developed:
 
@@ -91,20 +93,24 @@ Below are examples of wireframes I developed:
 |**Find Page**|**Learn Page**|
 |<img width="560" alt="Screen Shot 2022-11-29 at 2 10 45" src="https://user-images.githubusercontent.com/56706104/204502171-c218386a-cf61-49b4-bf5e-58fff4765201.png">|<img width="560" alt="Screen Shot 2022-11-29 at 2 10 53" src="https://user-images.githubusercontent.com/56706104/204502261-5b200cf4-c15e-49af-8cf4-9e0c43e6568e.png">|
 
+The graphic design elements variations were 
+
+<img width="924" alt="TypeVar" src="https://user-images.githubusercontent.com/56706104/204586481-bcc4ef56-e6ec-4c3f-8921-7dd017b98515.png">
+
+**Find the full wireframe and graphic design element variations [here](https://ikukonakano.github.io/DH110/Assignment06/)**
+
+
+## Low Fidelity Prototype
+
 Below is the Low Fidelity Wireflow, meant to give an overarching view of the prototype (not give a detailed look at any one page):
 
 ![LowFidWireflow](https://user-images.githubusercontent.com/56706104/204502100-704dbad8-8ae3-4cd0-bfd9-cd32830c3385.jpeg)
 
-
 I conducted user testing with the rudimentary wireframe and wireflow of the low fidelity prototype and I got feedback about the design, and certain key features that I would make sure to properly design or remove due to complexity.
 
-**Find the full wireframe and graphic design element variations [here](https://ikukonakano.github.io/DH110/Assignment05/)**
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FmOi7jhEjIckWd0VRmQoyX5%2FLow-Fid-Prototype%3Fnode-id%3D0%253A1%26t%3Dk45awUf0eDPvp3jw-1" allowfullscreen></iframe>
 
-## Wireframe and Graphic Design Element Variations
-
-
-
-**Find the full wireframe and graphic design element variations [here](https://ikukonakano.github.io/DH110/Assignment06/)**
+**Find the full low-fidelity prototype [here](https://ikukonakano.github.io/DH110/Assignment05/)**
 
 ## High Fidelity Prototype
 
