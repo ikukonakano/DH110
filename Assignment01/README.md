@@ -6,7 +6,7 @@ Course: DH 110
 
 Session: Fall 2022
 ## Project Description
-I am both a student of the food studies minor and an intern at a nonprofit that works within the realm of food activism. A common request among these communities is the need for a centralized hub for information, events, opportunities, and collaborations to be shared. If you look up "Los Angeles Food Activism" on Google, you'll quickly find the scattered links that only lead to specific organizations and their internal events. Other alternatives that consolidate resources are often in private communities and don't allow the public to join. Therefore, I would like to focus my project on creating a resource-sharing platform to support food activism.
+I am both a student of the food studies minor and an intern at a nonprofit that works within the realm of food activism. A common request among these communities is the need for a centralized hub for information, events, opportunities, and collaborations to be shared. If you look up "Los Angeles Food Resources" on Google, you'll quickly find the scattered links that only lead to specific organizations and their internal events. Other alternatives that consolidate resources are often in private communities and don't allow the public to join. Therefore, I would like to focus my project on creating a platform for specifically sharing, finding, and learning about available food resources in Los Angeles.
 
 ## Competitor Analysis
 ### Slack workspace for UCLA Food Studies minors
@@ -14,13 +14,13 @@ I am both a student of the food studies minor and an intern at a nonprofit that 
 (unfortunately this is a private resource, so the URL is unavailable)
 
 **Description**
-This Slack workspace is a private workspace hosted by the Food Studies department at UCLA. In order to get access to the Slack, you must be a Food Studies students or an affiliate of the program. This workspace is meant to serve as a hub for students of the minor to hear of job opportunities, events, volunteering events, and other external activities. It includes channels to discuss announcments, research opportunities, social events, food news, recipes, and others (channels start with # and are in the column on the left of the above screenshot).
+This Slack workspace is a private workspace hosted by the Food Studies department at UCLA. In order to get access to Slack, you must be a Food Studies student or an affiliate of the program. This workspace is meant to serve as a hub for students of the minor to hear of job opportunities, events, volunteering events, and other external activities. It includes channels to discuss announcements, research opportunities, social events, food news, recipes, and others (channels start with # and are in the column on the left of the above screenshot).
 
 **Overall Heuristic Evaluation**
-Slack is a well-rounded app. The only drawback as a users is that since you likely have more than one workspace, it is not necessarily the case that the application will open up to the one for the Food Studies minor. This means, users are not prompted to look at that workspace unlesss by their own volition or because of the small dot next to the workspace icon to show there are unread messages.
+Slack is a well-rounded app. The only drawback as a user is that since you likely have more than one workspace, it is not necessarily the case that the application will open up to the one for the Food Studies minor. This means, users are not prompted to look at that workspace unless by their own volition or because of the small dot next to the workspace icon to show there are unread messages.
 
 **Heuristic Evaluation**
-1. visibility of System Status
+1. visibility of system status
 
 |Evaluation|Severity Rating|Solution|
 |----------|---------------|--------|
@@ -58,8 +58,8 @@ Slack is a well-rounded app. The only drawback as a users is that since you like
 |Evaluation|Severity Rating|Solution|
 |----------|---------------|--------|
 |Good: if wifi is cut off, messages is greyed out and unsent which prevents users confusion about sent status|N/A|N/A|
-|Good: character limit changes as letters are typed within channel-name when creating a channel to direct users during name-chosing process instead of after|N/A|N/A|
-|Allows users to add more than 8 people in a groupchat even though capacity is 8, and type message (it just doesn't sent even though send buttom is still green)|1|Could be the result of convenience on the backend, to solve they should grey out send button & not let users add more members to private group beyond capacity
+|Good: character limit changes as letters are typed within channel-name when creating a channel to direct users during name-choosing process instead of after|N/A|N/A|
+|Allows users to add more than 8 people in a group chat even though capacity is 8, and type message (it just doesn't sent even though send button is still green)|1|Could be the result of convenience on the backend, to solve they should grey out send button & not let users add more members to private group beyond capacity
 
 6. recognition rather than recall
 
@@ -68,7 +68,7 @@ Slack is a well-rounded app. The only drawback as a users is that since you like
 |Good: users' names pop up once a letter is typed when adding members to chat or channel so users can see  users in workspace they can reference|N/A|N/A|
 |Good: recently used emojis pop up first, including customized emojis for user convenience|N/A|N/A|
 |Good: location to look at message draft at top of channel list so users can recall|N/A|N/A|
-|Good: Drop down to creat bookmark under each channel instead of having to dig to find the mechanism to back up|N/A|N/A|
+|Good: Drop down to create bookmark under each channel instead of having to dig to find the mechanism to back up|N/A|N/A|
 
 7. flexibility and efficiency of use
 
@@ -89,15 +89,15 @@ Slack is a well-rounded app. The only drawback as a users is that since you like
 
 |Evaluation|Severity Rating|Solution|
 |----------|---------------|--------|
-|Good: the error when too many members are added to a groupchat includes a button to create a channel instead with unlimited members|N/A|N/A|
+|Good: the error when too many members are added to a group chat includes a button to create a channel instead with unlimited members|N/A|N/A|
 |Good: Prompted to try again when you add spaces, periods, or most punctuation to channel-name so users can recover from error|N/A|N/A|
-|Unclear what punctuations can/can't be added to channel name|1|Source is the error message; include list of okay punctuatioons in error|
+|Unclear what punctuations can/can't be added to channel name|1|Source is the error message; include list of okay punctuations in error|
 
 10. help and documentation
 
 |Evaluation|Severity Rating|Solution|
 |----------|---------------|--------|
-|There aren't many messages about how to use the workspace from the owner/creator of the workspace so it is difficult to gauge how users should use the workspace and promoting comfortability in doing so|2|Source is from owner/creator of workspace as facilitators of this platofmr; have a message / tutorial for new users and show messages in channels from a diversity of students|
+|There aren't many messages about how to use the workspace from the owner/creator of the workspace so it is difficult to gauge how users should use the workspace and promoting comfortability in doing so|2|Source is from owner/creator of workspace as facilitators of this platform; have a message / tutorial for new users and show messages in channels from a diversity of students|
 |Good: bookmarks are available in each channel so documentation can be saved|N/A|N/A|
 
 ### [Los Angeles Food Policy Council](https://www.goodfoodla.org/)
@@ -114,7 +114,7 @@ This website includes all of the basic information that one may want to see. It 
 
 |Evaluation|Severity Rating|Solution|
 |----------|---------------|--------|
-|When selecting the title of items in the menu bar, it is unclear where it goes to the users and in reality it goes to the first item within the menu|2|source is redirection of menu item to first subitem within menu; have title pages for each menu item that users go to when they click on titles; show which menu bar users are under when they select an item within one of the menu items|
+|When selecting the title of items in the menu bar, it is unclear where it goes to the users and in reality it goes to the first item within the menu|2|source is redirection of menu item to first sub item within menu; have title pages for each menu item that users go to when they click on titles; show which menu bar users are under when they select an item within one of the menu items|
 |Good: Hovering over the button yields very clear inverted colors so users are aware it's a button|N/A|N/A|
 
 2. match between system and real world
@@ -123,12 +123,12 @@ This website includes all of the basic information that one may want to see. It 
 |----------|---------------|--------|
 |Good: They have nested menu items similar to how folders on computers work, mimicking real world system|N/A|N/A|
 |Good: Menu bar delineates different genres of opportunities that users might be interested in (publications, programs, engagement) to categorize external opportunities|N/A|N/A|
-|The delineation between the different genres above are not clear (sepecifically: events, programs, engagement)|2|source is the overlapping nature of terms chosen; consolidate all opportunities under one menu item and delineate within the menu tab; consolidate the different genres|
+|The delineation between the different genres above are not clear (specifically: events, programs, engagement)|2|source is the overlapping nature of terms chosen; consolidate all opportunities under one menu item and delineate within the menu tab; consolidate the different genres|
 3. user control and freedom
 
 |Evaluation|Severity Rating|Solution|
 |----------|---------------|--------|
-|When prompted to donate, a pop up appears. The X to exit the popup is very light and unclear|1|source is color choice of X and its similarity to background color; allow users to click outside of the popup on the webpage to exit, as well as making a clear X|
+|When prompted to donate, a pop up appears. The X to exit the popup is very light and unclear|1|source is color choice of X and its similarity to background color; allow users to click outside of the popup on the web page to exit, as well as making a clear X|
 |No information on which menu item you're under|1|source is lack of status; have a tracking bar on top that shows where you are nested under|
 
 4. consistency and standards
@@ -142,7 +142,7 @@ This website includes all of the basic information that one may want to see. It 
 
 |Evaluation|Severity Rating|Solution|
 |----------|---------------|--------|
-|Good: Relatively static website so minimal points of errror|N/A|N/A|
+|Good: Relatively static website so minimal points of error|N/A|N/A|
 |Good: All links seem to work and go places which minimizes 404s|N/A|N/A|
 
 6. recognition rather than recall
@@ -158,7 +158,7 @@ This website includes all of the basic information that one may want to see. It 
 
 |Evaluation|Severity Rating|Solution|
 |----------|---------------|--------|
-|Can't sign-in to have an account, meaning there is no ability to customize as well as less of a social contract to frequent the site|1|source is open-source nature of their website; solve by creating sign-in; alternatively, nothing as this is the cost-benefit of being publicly accessibly|
+|Can't sign-in to have an account, meaning there is no ability to customize as well as less of a social contract to frequent the site|1|source is open-source nature of their website; solve by creating sign-in; alternatively, nothing as this is the cost-benefit of being publicly accessible|
 
 8. aesthetic and minimalist design
 
