@@ -41,15 +41,15 @@ Slack gives individuals a means of sharing and finding resources but the space c
 
 In terms of solutions: 1) Shared resources should include specific mandatory information, and 2) information should be uniform in aesthetic and in grouping terminology.
           
-Find the full heuristic evaluation [here](https://ikukonakano.github.io/DH110/Assignment01/)
-.</td>
+**Find the full heuristic evaluation [here](https://ikukonakano.github.io/DH110/Assignment01/)**
+</td>
     <td> I conducted a pilot usability testing on the Los Angeles Food Policy Council to support my heuristic analysis and gain further insight about improvements that could be made on resource sharing platforms.
 
 I designed tasks that include learning about the organization and searching for resources and opportunities for the public to engage to get a better understanding of how the webpage’s organization affects the information accessibility. 
 
 These tasks confirmed my evaluation that the website is convoluted and cumbersome. This allowed me to begin understanding the perspective of users. To continue this study of users, I next performed a contextual inquiry.
      
-Find the full usability testing [here](https://ikukonakano.github.io/DH110/Assignment02/)
+**Find the full usability testing [here](https://ikukonakano.github.io/DH110/Assignment02/)**
 </td>
  </tr>
 </table>
