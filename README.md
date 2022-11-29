@@ -93,12 +93,11 @@ Below are examples of wireframes I developed:
 |**Find Page**|**Learn Page**|
 |<img width="560" alt="Screen Shot 2022-11-29 at 2 10 45" src="https://user-images.githubusercontent.com/56706104/204502171-c218386a-cf61-49b4-bf5e-58fff4765201.png">|<img width="560" alt="Screen Shot 2022-11-29 at 2 10 53" src="https://user-images.githubusercontent.com/56706104/204502261-5b200cf4-c15e-49af-8cf4-9e0c43e6568e.png">|
 
-The graphic design elements variations were 
+The graphic design elements variations were designed with various ideas in mind, including (but not limited to) Gestalt's theory of grouping visual elements, ensuring the color contrasts meet AAA standard, nad variation of typography and shapes.
 
 <img width="924" alt="TypeVar" src="https://user-images.githubusercontent.com/56706104/204586481-bcc4ef56-e6ec-4c3f-8921-7dd017b98515.png">
 
 **Find the full wireframe and graphic design element variations [here](https://ikukonakano.github.io/DH110/Assignment06/)**
-
 
 ## Low Fidelity Prototype
 
