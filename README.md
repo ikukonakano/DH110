@@ -149,7 +149,7 @@ The insights, suggestions, and feedback are reflected in the revised high fideli
 
 I conducted an impression test and a cognitive walkthrough of to get a better understanding of what my audience would and would not like. Here is a link to my [impression test & cognitive walkthrough survey](https://docs.google.com/forms/d/e/1FAIpQLSdy_9Cg3VQ-1iQoYRd2b1rSWAE2TJiLzYCdv7RYGPSXo8LrcA/viewform?usp=sharing) and [data](https://docs.google.com/spreadsheets/d/1Wt6WjFowZKrOqBCE38JoL4DOOtFUNv9BlrJLUR_4b_8/edit?usp=sharing). 
 
-Here is my video recording of my final user testing. [Note: their audio did not work so this video tracks their movement as well as their documentation process].
+[Here](https://drive.google.com/file/d/1s1uaAeHOiY-6_uKbsBDhgu3on8yA3qkU/view?usp=sharing) is the recording of my final user testing.
 
 Key findings from my first & new/final user testing
 * consistent titles and formatting 
