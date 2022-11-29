@@ -26,7 +26,8 @@ This project was developed as a part of the course, Digital Huamities 110: User 
 
 **Through this project, I hope to connect the population of people who are in need of food resources with those who are able to provide them, as well as educate individual who are curious about the issue at large.**
 
-Food is a basic necessity. In the same way clean water, clothing, and shelter are all basic to human survival, food is critical. However, hunger continues to be and is becoming an increasingly large issue. This project aims to contribute to the solution of global hunger by locally alleviating the hunger crisis in Los Angeles. This is done through the website but being a simple, intuitive, clear platform to find, share, and learn about food resources.
+Food is a basic necessity. In the same way clean water, clothing, and shelter are all basic to human survival, food is critical. However, hunger continues to be and is becoming an increasingly large issue. This project aims to contribute to the solution of global hunger by locally alleviating the hunger crisis in Los Angeles. This is done through the website but being a simple, intuitive, clear platform to: 1) find, 2) share, and 3) learn about food resources.
+
 
 ## Competitor Analysis
 
@@ -95,6 +96,8 @@ Below are examples of wireframes I developed:
 |**Find Page**|**Learn Page**|
 |<img width="560" alt="Screen Shot 2022-11-29 at 2 10 45" src="https://user-images.githubusercontent.com/56706104/204502171-c218386a-cf61-49b4-bf5e-58fff4765201.png">|<img width="560" alt="Screen Shot 2022-11-29 at 2 10 53" src="https://user-images.githubusercontent.com/56706104/204502261-5b200cf4-c15e-49af-8cf4-9e0c43e6568e.png">|
 
+**Find the full low-fidelity wireframe [here](https://www.figma.com/community/file/1179468258560227892)**
+
 The graphic design elements variations were designed with various ideas in mind, including (but not limited to) Gestalt's theory of grouping visual elements, ensuring the color contrasts meet AAA standard, nad variation of typography and shapes.
 
 <img width="924" alt="TypeVar" src="https://user-images.githubusercontent.com/56706104/204586481-bcc4ef56-e6ec-4c3f-8921-7dd017b98515.png">
@@ -103,23 +106,70 @@ The graphic design elements variations were designed with various ideas in mind,
 
 ## Low Fidelity Prototype
 
-Below is the Low Fidelity Wireflow, meant to give an overarching view of the prototype (not give a detailed look at any one page):
+Below is the Low Fidelity wireflow, meant to give an overarching view of the prototype (not give a detailed look at any one page):
 
 ![LowFidWireflow](https://user-images.githubusercontent.com/56706104/204502100-704dbad8-8ae3-4cd0-bfd9-cd32830c3385.jpeg)
 
+Please click the above image for a fullview of the wireflow.
+
 I conducted user testing with the rudimentary wireframe and wireflow of the low fidelity prototype and I got feedback about the design, and certain key features that I would make sure to properly design or remove due to complexity. This included assign asterisks on required fields, and changing the criteria question into an short-paragraph section instead of an additive table.
 
-**Find the full low-fidelity prototype [here](https://ikukonakano.github.io/DH110/Assignment05/)**
+**Find the full low-fidelity prototype and testing [here](https://ikukonakano.github.io/DH110/Assignment05/)**
 
 ## High Fidelity Prototype
 
 Using feedback from the low fidelity prototype testing as well as the graphic design elements I decided on, I began the high fidelity prototype of this project.
 
+Below are examples of high fidelity prototype of the same pages above
+|Home Page|Share Page|
+|:---:|:---:|
+|<img width="560" alt="Screen Shot 2022-11-29 at 9 11 18" src="https://user-images.githubusercontent.com/56706104/204606409-1ce4a7ed-4e02-44d0-be27-642c22fbe7bd.png">|<img width="560" alt="Screen Shot 2022-11-29 at 9 11 27" src="https://user-images.githubusercontent.com/56706104/204606471-00e8ef46-ad72-4856-a635-f5eb4201f771.png">|
+|**Find Page**|**Learn Page**|
+|<img width="560" alt="Screen Shot 2022-11-29 at 9 12 04" src="https://user-images.githubusercontent.com/56706104/204606557-d1a06a92-8399-4cda-8aab-2c545d4299eb.png">|<img width="560" alt="Screen Shot 2022-11-29 at 9 54 49" src="https://user-images.githubusercontent.com/56706104/204606590-5a1641a6-c8d6-40c2-896a-51a5d41805d4.png">|
 
+**Find the full high-fidelity protoype [here](https://www.figma.com/community/file/1179468191852016179)**
+
+Below is the High Fidelity wireflow, meant to give an overarching view of the prototype (not give a detailed look at any one page):
+
+<img width="720" alt="Screen Shot 2022-11-29 at 9 58 21" src="https://user-images.githubusercontent.com/56706104/204607130-b8f371df-0fad-4572-b0b5-dfd2c59a6b68.png">
+
+Please click the above image for a fullview of the wireflow.
+
+**Find the full high-fidelity prototype  [here](https://ikukonakano.github.io/DH110/Assignment07/)**
+
+This was my first iteration of the high-fidelity prototype. This requires user testing and revision to ensure it's making the proper impact.
 
 ## Revision History
 
-Including cognitive walkthrough; impression test, accessibility audit, NEW usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+The insights, suggestions, and feedback are reflected in the revised high fidelity prototype below.
+
+### First User Testing: Impression Test & Cognitive Walkthrough
+
+I conducted an impression test and a cognitive walkthrough of to get a better understanding of what my audience would and would not like. Here is a link to my [impression test & cognitive walkthrough survey](https://docs.google.com/forms/d/e/1FAIpQLSdy_9Cg3VQ-1iQoYRd2b1rSWAE2TJiLzYCdv7RYGPSXo8LrcA/viewform?usp=sharing) and [data](https://docs.google.com/spreadsheets/d/1Wt6WjFowZKrOqBCE38JoL4DOOtFUNv9BlrJLUR_4b_8/edit?usp=sharing). 
+
+Here is my video recording of my final user testing. [Note: their audio did not work so this video tracks their movement as well as their documentation process].
+
+Key findings from my first & new/final user testing
+* consistent titles and formatting 
+* removing some instances of smart animation and changing into dissolve (ex: share/find preview pages to content pages)
+* checking for correct content (making sure the question in step 3 of task 2 is not repeating)
+* including a back button in the share task (added to steps 2 and 3 in task 2)
+* making sure the dropdown in step 2 of share task appears in front
+* making the "home," "find" and "share" menu navigate to the correct preview pages
+
+**Find the full impression test & cognitive walkthrough[here](https://ikukonakano.github.io/DH110/Assignment07/)**
+
+Based off of these feedbacks, I created a revised High Fidelity Prototype.
+
+**Find the full high-fidelity protoype [here](https://www.figma.com/community/file/1179485618889678407)**
+
+Below is the High Fidelity wireflow, meant to give an overarching view of the prototype (not give a detailed look at any one page):
+
+<img width="549" alt="Screen Shot 2022-11-29 at 10 18 50" src="https://user-images.githubusercontent.com/56706104/204613522-2c668456-c406-43de-be4a-f29cb2cf7bc5.png">
+
+Please click the above image for a fullview of the wireflow.
+
+**Find the full revision history [here](https://ikukonakano.github.io/DH110/Assignment07/)**
 
 ## Pitch Video
 
